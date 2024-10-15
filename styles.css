@@ -1,0 +1,51 @@
+.navbar{
+    display: flex;
+    height: auto;
+    width: 100%;
+    border-bottom: gray solid 1px;
+    position: sticky;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem;
+}
+
+.logo{
+    width: 6.25rem;
+    height: 4rem;
+}
+
+.search-bar{
+    display: flex;
+    position: relative;
+    border: gray solid 2px;
+    height: 1.5rem;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    gap: 0.5rem;
+    border-radius: 1.3rem;
+}
+
+.loop-icon{
+    position: absolute;
+    top: 8%;
+    right: 3%;
+    justify-self: right;
+    background-color: rgb(42, 130, 165);
+    padding: 0.5rem;
+    border-radius: 50%;
+}
+
+.search{
+    outline: none;
+    width: 75%;
+    border: none;
+    border-color: transparent;
+}
+
+
