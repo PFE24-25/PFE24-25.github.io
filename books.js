@@ -6,7 +6,7 @@ function createCard(book) {
     const card = document.createElement('div');
     card.classList.add('card');
     card.innerHTML = `  <div class="offer-img-container">
-                            <a href="${book.pdf_url}" target="_blank">
+                            <a ${(book.pdf_url=="")?"":"href='"}${book.pdf_url}' target="_blank">
                                 <img src=".${book.thumbnail_url}" alt="pfe icon" class="offer-img">
                             </a>
                         </div>
