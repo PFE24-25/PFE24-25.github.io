@@ -28,6 +28,13 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/activity-7252312340052721667-vOMO?utm_source=share&utm_medium=member_desktop"
     },
 
-
+    {
+        "company": "Harvest Group",
+        "deadline": "",
+        "Tags": "Data, Software Development",
+        "thumbnail_url": "",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/ramysouilem_pfe-internship-tunisia-activity-7246811104599752705-ermO?utm_source=share&utm_medium=member_desktop"
+    },
     
 ];
