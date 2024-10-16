@@ -1,65 +1,22 @@
 
 
 books = [
-
-<<<<<<< HEAD
-    {
-        "company": "The Great Gatsby",
-        "deadline": "F. Scott Fitzgerald",
-        "Tags": "1925",
-        "thumbnail_url": "./assets/Capture d'écran 2024-10-16 015508.png",
-=======
   {
         "company": "Olindias",
         "deadline": "3 November 2024",
         "Tags": "AI",
         "thumbnail_url": "./assets/Olindias.png",
->>>>>>> 6759ff8dac1145be3cc97b320b27e4569dc06209
         "pdf_url": "https://github.com/PFE24-25/PFE24-25.github.io/blob/main/assets/pdfs/Olindas.pdf",
         "linked_url": "https://www.linkedin.com/posts/olindias_end-of-study-internship-opportunity-activity-7251955753182224384-VTUB?utm_source=share&utm_medium=member_desktop"
     },
     {
-<<<<<<< HEAD
-        "company": "The Great Gatsby00",
-        "deadline": "F. Scott Fitzgerald00",
-        "Tags": "",
-        "thumbnail_url": "./assets/Capture d'écran 2024-10-16 015508.png",
-        "pdf_url": "https://github.com/PFE24-25/PFE24-25.github.io/blob/main/assets/pdfs/Olindas.pdf",
-        "linked_url": "https://www.linkedin.com/in/nesrin-brahim-048573223/"
-    },
-    {
-        "company": "The Great Gatsby00",
-        "deadline": "F. Scott Fitzgerald00",
-        "Tags": "1925",
-        "thumbnail_url": "./assets/Capture d'écran 2024-10-16 015508.png",
-        "pdf_url": "",
-        "linked_url": "https://www.linkedin.com/in/nesrin-brahim-048573223/"
-    },
-    {
-        "company": "The Great Gatsby00",
-        "deadline": "F. Scott Fitzgerald00",
-        "Tags": "1925",
-        "thumbnail_url": "./assets/Capture d'écran 2024-10-16 015508.png",
-        "pdf_url": "https://github.com/PFE24-25/PFE24-25.github.io/blob/main/assets/pdfs/Olindas.pdf",
-        "linked_url": "https://www.linkedin.com/in/nesrin-brahim-048573223/"
-    },
-    {
-        "company": "The Great Gatsby00",
-        "deadline": "F. Scott Fitzgerald00",
-        "Tags": "1925",
-        "thumbnail_url": "./assets/Capture d'écran 2024-10-16 015508.png",
-        "pdf_url": "https://github.com/PFE24-25/PFE24-25.github.io/blob/main/assets/pdfs/Olindas.pdf",
-        "linked_url": "https://www.linkedin.com/in/nesrin-brahim-048573223/"
-=======
         "company": "Decade",
         "deadline": "",
         "Tags": "e-commerce",
         "thumbnail_url": "./assets/Decade.png",
         "pdf_url": "https://github.com/PFE24-25/PFE24-25.github.io/blob/main/assets/pdfs/Decade.pdf",
         "linked_url": "https://www.linkedin.com/posts/decade_decade-recrute-des-stagiaires-pfe-activity-7252286192841330689-0FNm?utm_source=share&utm_medium=member_desktop"
->>>>>>> 6759ff8dac1145be3cc97b320b27e4569dc06209
     },
-
     {
         "company": "SYNETIS",
         "deadline": "",
