@@ -53,16 +53,11 @@
 margin: 3% 2%;
 }
 
-
-
-
 p{
     font-family: "Microsoft Sans Serif";
     font-size:16px;
     margin: 0.5% 0;
-
 }
-
 
 p.company-name{
     font-weight:500;
@@ -75,6 +70,7 @@ p.deadline{
 
 img.offer-img{
     border-radius: 5%;
+    width: 50%;
 }
 
 #book-container{
