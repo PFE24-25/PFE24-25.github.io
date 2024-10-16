@@ -6,17 +6,17 @@ books = [
         "company": "The Great Gatsby",
         "deadline": "F. Scott Fitzgerald",
         "Tags": 1925,
-        "thumbnail_url": "https://images-na.ssl-images-amazon.com/images/I/513sHjZr13L._SX328_BO1,204,203,200_.jpg",
-        "pdf_url": "https://images-na.ssl-images-amazon.com/images/I/513sHjZr13L._SX328_BO1,204,203,200_.jpg",
-        "linked_url": "https://images-na.ssl-images-amazon.com/images/I/513sHjZr13L._SX328_BO1,204,203,200_.jpg"
+        "thumbnail_url": "./assets/Capture d'écran 2024-10-16 015508.png",
+        "pdf_url": "https://github.com/PFE24-25/PFE24-25.github.io/blob/main/assets/pdfs/Olindas.pdf",
+        "linked_url": "https://www.linkedin.com/in/nesrin-brahim-048573223/"
     },
     {
         "company": "The Great Gatsby00",
         "deadline": "F. Scott Fitzgerald00",
         "Tags": 1925,
-        "thumbnail_url": "https://images-na.ssl-images-amazon.com/images/I/513sHjZr13L._SX328_BO1,204,203,200_.jpg",
-        "pdf_url": "https://images-na.ssl-images-amazon.com/images/I/513sHjZr13L._SX328_BO1,204,203,200_.jpg",
-        "linked_url": "https://images-na.ssl-images-amazon.com/images/I/513sHjZr13L._SX328_BO1,204,203,200_.jpg"
+        "thumbnail_url": "./assets/Capture d'écran 2024-10-16 015508.png",
+        "pdf_url": "https://github.com/PFE24-25/PFE24-25.github.io/blob/main/assets/pdfs/Olindas.pdf",
+        "linked_url": "https://www.linkedin.com/in/nesrin-brahim-048573223/"
     },
 
 
