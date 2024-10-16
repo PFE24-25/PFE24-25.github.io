@@ -6,7 +6,7 @@ books = [
         "deadline": "3 November 2024",
         "Tags": "AI",
         "thumbnail_url": "./assets/Olindias.png",
-        "pdf_url": "https://github.com/PFE24-25/PFE24-25.github.io/blob/main/assets/pdfs/Olindas.pdf",
+        "pdf_url": "./assets/pdfs/Olindas.pdf",
         "linked_url": "https://www.linkedin.com/posts/olindias_end-of-study-internship-opportunity-activity-7251955753182224384-VTUB?utm_source=share&utm_medium=member_desktop"
     },
     {
@@ -14,7 +14,7 @@ books = [
         "deadline": "",
         "Tags": "e-commerce",
         "thumbnail_url": "./assets/Decade.png",
-        "pdf_url": "https://github.com/PFE24-25/PFE24-25.github.io/blob/main/assets/pdfs/Decade.pdf",
+        "pdf_url": "./assets/pdfs/Decade.pdf",
         "linked_url": "https://www.linkedin.com/posts/decade_decade-recrute-des-stagiaires-pfe-activity-7252286192841330689-0FNm?utm_source=share&utm_medium=member_desktop"
     },
     {
