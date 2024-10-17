@@ -26,7 +26,9 @@
                 </div>
                 <div class="search-bar">
                     <!-- search bar -->
-                    <input type="text" class="search" placeholder="Search for a PFE...">
+                    <input type="text" class="search" placeholder="Search by tag" id="tag-input" oninput="filter()">
+                    <div class="vert-line"></div>
+                    <input type="text" class="search" placeholder="Search by company" id="company-input" oninput="filter()">
                     <div class="loop-icon"><i class="fa-solid fa-magnifying-glass"></i></div>
                 </div>
             </div>

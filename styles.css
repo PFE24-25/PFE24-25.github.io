@@ -55,6 +55,10 @@ input
 
 }
 
+.vert-line{
+    border-left: #A01C3E solid 1px;
+}
+
 a
 {
     text-decoration: none;
