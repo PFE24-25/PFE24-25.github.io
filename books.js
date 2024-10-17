@@ -70,37 +70,43 @@ function handleMouseMove(event) {
 
 function searchTag() {
     input = document.getElementById('tag-input').value;
-    console.log(input);
-    const cards = document.querySelectorAll('.card');
-    cards.forEach(element => {
+    filtered.forEach((element, i)=> {
+        if (element != 0) {
         tags = element.getElementsByClassName('tags');
         if (tags.length > 0) {
             tags = tags[0].innerText.toLowerCase();
-            if (tags.includes(input.toLowerCase())) {
-                element.style.display = 'block';
+            if (!tags.includes(input.toLowerCase())) {
+                filtered[i]=0;
             }
-            else {
-                element.style.display = 'none';
-            }
-        }
+        }}
     });
 }
 
 
 function searchCompany() {
     input = document.getElementById('company-input').value;
-    console.log(input);
-    const cards = document.querySelectorAll('.card');
-    cards.forEach(element => {
-        tags = element.getElementsByClassName('company-name');
+    filtered.forEach((element,i) => {
+        if (element != 0) {
+        comps = element.getElementsByClassName('company-name');
         if (tags.length > 0) {
-            tags = tags[0].innerText.toLowerCase();
-            if (tags.includes(input.toLowerCase())) {
-                element.style.display = 'block';
+            comps = comps[0].innerText.toLowerCase();
+            if (!comps.includes(input.toLowerCase())) {
+                filtered[i]=0;
             }
-            else {
-                element.style.display = 'none';
-            }
-        }
+        }}
     });
+}
+filtered = [];
+function filter(){
+    filtered = Array.from(document.querySelectorAll('.card'));
+    filtered.forEach(element => {
+        element.style.display = 'none';
+    });
+    searchTag();
+    searchCompany();
+    console.log(filtered);
+    filtered.forEach(element => {
+        if (element != 0) element.style.display = 'block';
+    });
+
 }
