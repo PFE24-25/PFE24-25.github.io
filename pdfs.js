@@ -51,6 +51,13 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/alteca_stages-digital-lyon-activity-7252944013035454464-5wm5?utm_source=share&utm_medium=member_desktop"
     },
 
+          {
+        "company": "HumanOne",
+        "deadline": "",
+        "Tags": " CyberSecurity",
+        "thumbnail_url": "./assets/HumanOne.png",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/salma-abid-96471a162_cybersaezcuritaez-analystessoc-pentesters-activity-7252989036716290050-WQ2C?utm_source=share&utm_medium=member_desktop"
+    },
 
-    
 ];
