@@ -34,6 +34,15 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/activity-7252312340052721667-vOMO?utm_source=share&utm_medium=member_desktop"
     },
 
+      {
+        "company": "MANERGY",
+        "deadline": "",
+        "Tags": " Energétique, Environnementale",
+        "thumbnail_url": "./assets/MANERGY.png",
+        "pdf_url": "./assets/pdfs/MANERGY.pdf",
+        "linked_url": "https://www.linkedin.com/posts/groupemanergy_recrutement-activity-7252599416124059649-WIhQ?utm_source=share&utm_medium=member_desktop"
+    },
+
 
     
 ];
