@@ -4,7 +4,7 @@ books = [
   {
         "company": "Olindias",
         "deadline": "3 November 2024",
-        "Tags": "AI",
+        "Tags": " AI",
         "thumbnail_url": "./assets/Olindias.png",
         "pdf_url": "./assets/pdfs/Olindas.pdf",
         "linked_url": "https://www.linkedin.com/posts/olindias_end-of-study-internship-opportunity-activity-7251955753182224384-VTUB?utm_source=share&utm_medium=member_desktop"
@@ -12,7 +12,7 @@ books = [
     {
         "company": "Decade",
         "deadline": "",
-        "Tags": "e-commerce",
+        "Tags": " E-commerce",
         "thumbnail_url": "./assets/Decade.png",
         "pdf_url": "./assets/pdfs/Decade.pdf",
         "linked_url": "https://www.linkedin.com/posts/decade_decade-recrute-des-stagiaires-pfe-activity-7252286192841330689-0FNm?utm_source=share&utm_medium=member_desktop"
@@ -20,7 +20,7 @@ books = [
     {
         "company": "Harvest Group",
         "deadline": "",
-        "Tags": "Data, Software Development",
+        "Tags": " Data, Software Development",
         "thumbnail_url": "./assets/HarvestGroup.png",
         "pdf_url": "",
         "linked_url": "https://www.linkedin.com/posts/ramysouilem_pfe-internship-tunisia-activity-7246811104599752705-ermO?utm_source=share&utm_medium=member_desktop"
@@ -28,7 +28,7 @@ books = [
     {
         "company": "SYNETIS",
         "deadline": "",
-        "Tags": "Cybersecurity",
+        "Tags": " Cybersecurity",
         "thumbnail_url": "./assets/SYNETIS.jpeg",
         "pdf_url": "",
         "linked_url": "https://www.linkedin.com/posts/activity-7252312340052721667-vOMO?utm_source=share&utm_medium=member_desktop"
@@ -41,6 +41,14 @@ books = [
         "thumbnail_url": "./assets/MANERGY.png",
         "pdf_url": "./assets/pdfs/MANERGY.pdf",
         "linked_url": "https://www.linkedin.com/posts/groupemanergy_recrutement-activity-7252599416124059649-WIhQ?utm_source=share&utm_medium=member_desktop"
+    },
+        {
+        "company": "Alteca",
+        "deadline": "",
+        "Tags": " Development Full Stack, Data, AI",
+        "thumbnail_url": "./assets/Alteca.png",
+        "pdf_url": "./assets/pdfs/Alteca.pdf",
+        "linked_url": "https://www.linkedin.com/posts/alteca_stages-digital-lyon-activity-7252944013035454464-5wm5?utm_source=share&utm_medium=member_desktop"
     },
 
 
