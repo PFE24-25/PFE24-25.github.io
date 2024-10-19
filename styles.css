@@ -272,7 +272,6 @@ p.tags{
     align-content: center;
     justify-content: center;
     gap: 10px;
-    width: 10rem;
     height: 8rem;
 }
 
@@ -286,19 +285,8 @@ p.tags{
     font-size: 16px;
 }
 
-
-
-@media  (max-width: 1441px) {
-    .contact-info div a {
-        width: 8rem;
-        height: 6rem;
-    }
-
-
-
+.linkedIn p
+{
+    text-align: center;
 }
 
-@media  (max-width: 991px) {
-
-
-}
