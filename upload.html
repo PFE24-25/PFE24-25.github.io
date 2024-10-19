@@ -1,0 +1,123 @@
+<div id="upload_pdf">
+  <form id="uploadForm">
+    <label for="token">GitHub Token:</label>
+    <input type="text" id="token" name="token" required>
+
+    <label for="company">Company:</label>
+    <input type="text" id="company" name="company" required>
+
+    <label for="deadline">Deadline:</label>
+    <input type="text" id="deadline" name="deadline">
+
+    <label for="tags">Tags:</label>
+    <input type="text" id="tags" name="tags" required>
+
+    <label for="linked_url">LinkedIn URL:</label>
+    <input type="text" id="linked_url" name="linked_url" required>
+
+    <label for="pdf_url">PDF File:</label>
+    <input type="file" id="pdf_url" name="pdf_url" accept="application/pdf" required>
+
+    <label for="thumbnail_url">Thumbnail Image:</label>
+    <input type="file" id="thumbnail_url" name="thumbnail_url" accept="image/*" required>
+
+    <input type="submit" value="Upload">
+  </form>
+
+  <script>
+    document.getElementById('uploadForm').addEventListener('submit', async function (e) {
+      e.preventDefault();
+
+      const token = document.getElementById('token').value;
+      const company = document.getElementById('company').value;
+      const deadline = document.getElementById('deadline').value;
+      const tags = document.getElementById('tags').value;
+      const linked_url = document.getElementById('linked_url').value;
+      const pdfFile = document.getElementById('pdf_url').files[0];
+      const thumbnailFile = document.getElementById('thumbnail_url').files[0];
+
+      // Upload PDF and Thumbnail to GitHub
+      const timestamp = new Date().getTime(); // Unique timestamp for file names
+      const pdfPath = `/assets/pdfs/${timestamp}_${company.replace(/\s+/g, '')}.pdf`;
+      const thumbnailPath = `/assets/images/${timestamp}_${company.replace(/\s+/g, '')}.png`;
+
+      const repo = 'pfe24-25.github.io'; // Replace with the actual repository name
+      const owner = 'pfe24-25'; // Replace with the actual repository owner
+
+      // Upload files to GitHub
+      await uploadToGitHub(token, owner, repo, pdfPath, pdfFile);
+      await uploadToGitHub(token, owner, repo, thumbnailPath, thumbnailFile);
+
+      // Add new entry to /pdfs.js
+      await modifyPdfsJS(token, owner, repo, company, deadline, tags, linked_url, pdfPath, thumbnailPath);
+    });
+
+    async function uploadToGitHub(token, owner, repo, path, file) {
+      const fileContent = await file.arrayBuffer();
+      const base64Content = btoa(String.fromCharCode(...new Uint8Array(fileContent)));
+
+      const response = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents${path}`, {
+        method: 'PUT',
+        headers: {
+          'Authorization': `token ${token}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          message: `Add ${file.name}`,
+          content: base64Content
+        })
+      });
+
+      if (!response.ok) {
+        throw new Error(`Error uploading file: ${file.name}`);
+      }
+    }
+
+    async function modifyPdfsJS(token, owner, repo, company, deadline, tags, linked_url, pdfPath, thumbnailPath) {
+      const jsFilePath = '/pdfs.js';
+
+      // Get the existing /pdfs.js file content
+      const jsFileResponse = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents${jsFilePath}`, {
+        headers: {
+          'Authorization': `token ${token}`
+        }
+      });
+
+      const jsFileData = await jsFileResponse.json();
+      const decodedContent = atob(jsFileData.content);
+      
+      // Add new book data
+      const newBookEntry = `
+      {
+          "company": "${company}",
+          "deadline": "${deadline}",
+          "Tags": "${tags}",
+          "thumbnail_url": "${thumbnailPath}",
+          "pdf_url": "${pdfPath}",
+          "linked_url": "${linked_url}"
+      },`;
+      
+      // Insert the new book entry before the closing bracket of the books array
+      const updatedContent = decodedContent.replace(/(\];\s*)$/, `${newBookEntry}$1`);
+
+      // Update /pdfs.js with the new content
+      const base64UpdatedContent = btoa(updatedContent);
+      const updateResponse = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents${jsFilePath}`, {
+        method: 'PUT',
+        headers: {
+          'Authorization': `token ${token}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          message: `Add new book for ${company}`,
+          content: base64UpdatedContent,
+          sha: jsFileData.sha
+        })
+      });
+
+      if (!updateResponse.ok) {
+        throw new Error('Error updating pdfs.js');
+      }
+    }
+  </script>
+</div>
