@@ -61,4 +61,12 @@ books = [
     },
 
 
-      ];
+      
+    {
+        "company": "Riverlance",
+        "deadline": "tmrrw",
+        "Tags": "Web",
+        "thumbnail_url": "/assets/images/1729363865611_Riverlance.png",
+        "pdf_url": "/assets/pdfs/1729363865611_Riverlance.pdf",
+        "linked_url": "https://www.linkedin.com/posts/bramasquare_rejoignez-bramasquare-en-tant-que-d%C3%A9veloppeur-activity-7253354195221639168-QGZQ?utm_source=share&utm_medium=member_desktop"
+    },];
