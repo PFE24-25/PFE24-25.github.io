@@ -76,4 +76,12 @@ books = [
           "thumbnail_url": "/assets/images/1729296870961_aaa.png",
           "pdf_url": "/assets/pdfs/1729296870961_aaa.pdf",
           "linked_url": "likk"
-      },];
+      },
+    {
+        "company": "riverlance",
+        "deadline": "dead",
+        "Tags": "tagggg",
+        "thumbnail_url": "/assets/images/1729299160003_riverlance.png",
+        "pdf_url": "/assets/pdfs/1729299160003_riverlance.pdf",
+        "linked_url": "likkkkkk"
+    },];
