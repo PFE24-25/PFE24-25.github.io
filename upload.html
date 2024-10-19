@@ -82,51 +82,66 @@
     }
 
     async function modifyPdfsJS(token, owner, repo, company, deadline, tags, linked_url, pdfPath, thumbnailPath) {
-        const jsFilePath = '/pdfs.js';
+    const jsFilePath = '/pdfs.js';
 
-        // Get the existing /pdfs.js file content
-        const jsFileResponse = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents${jsFilePath}`, {
-            headers: {
-                'Authorization': `token ${token}`
-            }
-        });
-
-        const jsFileData = await jsFileResponse.json();
-        const decodedContent = atob(jsFileData.content);
-
-        // Add new book data
-        const newBookEntry = `
-        {
-            "company": "${company}",
-            "deadline": "${deadline}",
-            "Tags": "${tags}",
-            "thumbnail_url": "${thumbnailPath}",
-            "pdf_url": "${pdfPath}",
-            "linked_url": "${linked_url}"
-        },`;
-
-        // Insert the new book entry before the closing bracket of the books array
-        const updatedContent = decodedContent.replace(/(\];\s*)$/, `${newBookEntry}$1`);
-
-        // Update /pdfs.js with the new content
-        const base64UpdatedContent = btoa(updatedContent);
-        const updateResponse = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents${jsFilePath}`, {
-            method: 'PUT',
-            headers: {
-                'Authorization': `token ${token}`,
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({
-                message: `Add new book for ${company}`,
-                content: base64UpdatedContent,
-                sha: jsFileData.sha
-            })
-        });
-
-        if (!updateResponse.ok) {
-            throw new Error('Error updating pdfs.js');
+    // Get the existing /pdfs.js file content
+    const jsFileResponse = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents${jsFilePath}`, {
+        headers: {
+            'Authorization': `token ${token}`,
+            'Accept': 'application/vnd.github.v3.raw'  // Get raw content
         }
+    });
+
+    if (!jsFileResponse.ok) {
+        throw new Error('Error fetching pdfs.js');
     }
+
+    // Get the raw content of pdfs.js as a string (no need to decode from base64)
+    const existingContent = await jsFileResponse.text();
+
+    // Add new book data
+    const newBookEntry = `
+    {
+        "company": "${company}",
+        "deadline": "${deadline}",
+        "Tags": "${tags}",
+        "thumbnail_url": "${thumbnailPath}",
+        "pdf_url": "${pdfPath}",
+        "linked_url": "${linked_url}"
+    },`;
+
+    // Insert the new book entry before the closing bracket of the books array
+    const updatedContent = existingContent.replace(/(\];\s*)$/, `${newBookEntry}$1`);
+
+    // Fetch the file metadata to get the 'sha' required for updating
+    const fileMetadataResponse = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents${jsFilePath}`, {
+        headers: {
+            'Authorization': `token ${token}`
+        }
+    });
+
+    const fileMetadata = await fileMetadataResponse.json();
+    const sha = fileMetadata.sha;  // Get the SHA of the file
+
+    // Now update the file on GitHub with the modified content
+    const updateResponse = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents${jsFilePath}`, {
+        method: 'PUT',
+        headers: {
+            'Authorization': `token ${token}`,
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+            message: `Add new book for ${company}`,
+            content: btoa(unescape(encodeURIComponent(updatedContent))),  // Convert to base64 safely
+            sha: sha  // Include the SHA of the file to be updated
+        })
+    });
+
+    if (!updateResponse.ok) {
+        throw new Error('Error updating pdfs.js');
+    }
+}
+
 </script>
 
 </div>
