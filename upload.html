@@ -26,6 +26,7 @@
 
   <script>
     document.getElementById('uploadForm').addEventListener('submit', async function (e) {
+      console.log('Form submitted');
       e.preventDefault();
 
       const token = document.getElementById('token').value;
@@ -53,6 +54,7 @@
     });
 
     async function uploadToGitHub(token, owner, repo, path, file) {
+      console.log(`Uploading ${file.name} to GitHub...`);
       const fileContent = await file.arrayBuffer();
       const base64Content = btoa(String.fromCharCode(...new Uint8Array(fileContent)));
 
@@ -121,3 +123,4 @@
     }
   </script>
 </div>
+
