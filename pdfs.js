@@ -61,27 +61,4 @@ books = [
     },
 
 
-      {
-          "company": "aaa",
-          "deadline": "ssss",
-          "Tags": "ttt",
-          "thumbnail_url": "/assets/images/1729296776106_aaa.png",
-          "pdf_url": "/assets/pdfs/1729296776106_aaa.pdf",
-          "linked_url": "likk"
-      },
-      {
-          "company": "aaa",
-          "deadline": "ssss",
-          "Tags": "ttt",
-          "thumbnail_url": "/assets/images/1729296870961_aaa.png",
-          "pdf_url": "/assets/pdfs/1729296870961_aaa.pdf",
-          "linked_url": "likk"
-      },
-    {
-        "company": "riverlance",
-        "deadline": "dead",
-        "Tags": "tagggg",
-        "thumbnail_url": "/assets/images/1729299160003_riverlance.png",
-        "pdf_url": "/assets/pdfs/1729299160003_riverlance.pdf",
-        "linked_url": "likkkkkk"
-    },];
+      ];
