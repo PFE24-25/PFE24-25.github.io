@@ -60,4 +60,12 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/salma-abid-96471a162_cybersaezcuritaez-analystessoc-pentesters-activity-7252989036716290050-WQ2C?utm_source=share&utm_medium=member_desktop"
     },
 
-];
+
+      {
+          "company": "aaa",
+          "deadline": "ssss",
+          "Tags": "ttt",
+          "thumbnail_url": "/assets/images/1729296776106_aaa.png",
+          "pdf_url": "/assets/pdfs/1729296776106_aaa.pdf",
+          "linked_url": "likk"
+      },];
