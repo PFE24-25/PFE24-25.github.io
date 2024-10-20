@@ -68,4 +68,12 @@ books = [
     "thumbnail_url": "/assets/images/1729446709052_momy.png",
     "pdf_url": "/assets/pdfs/1729446709052_momy.pdf",
     "linked_url": "www.google.com"
+},
+{
+    "company": "abouda batata",
+    "deadline": "timoun ou bomba",
+    "Tags": "tagdd",
+    "thumbnail_url": "/assets/images/1729447573370_aboudabatata.png",
+    "pdf_url": "/assets/pdfs/1729447573370_aboudabatata.pdf",
+    "linked_url": "www.google.com"
 },];
