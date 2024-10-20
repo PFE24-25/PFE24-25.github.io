@@ -315,6 +315,7 @@ p.tags{
     box-shadow: 2px 2px 10px 0 rgba(0, 0, 0, 0.2);
     color: white;
     font-weight: bold;
+    cursor: pointer;
 }
 
 #upload_pdf
@@ -328,4 +329,11 @@ p.tags{
     color: white;
     font-weight: bold;
     width: 5rem;
+    cursor: pointer;
+}
+
+#submit_info
+{
+    background: transparent !important;
+    box-shadow: none !important;
 }

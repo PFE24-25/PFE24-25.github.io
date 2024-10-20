@@ -111,7 +111,14 @@ const updateResponse = await fetch(`https://api.github.com/repos/${owner}/${repo
     })
 });
 
-if (!updateResponse.ok) {
-    throw new Error('Error updating pdfs.js');
+if (updateResponse.ok) {
+    let submit_info = document.getElementById('submit_info');
+    submit_info.innerText = "Book added successfully!";
+    submit_info.style.color = "green";
+}
+else {
+    let submit_info = document.getElementById('submit_info');
+    submit_info.innerText = "Error adding book. Please try again.";
+    submit_info.style.color = "red";
 }
 }
