@@ -28,28 +28,38 @@
     <main>
       <div id="upload_pdf">
         <form id="uploadForm">
-          <label for="token">GitHub Token:</label>
-          <input type="text" id="token" name="token" required>
+          
+          <input type="text" id="token" name="token" placeholder="GitHub Token..." required>
       
-          <label for="company">Company:</label>
-          <input type="text" id="company" name="company" required>
+          <input type="text" id="company" name="company" placeholder="Company...">
       
-          <label for="deadline">Deadline:</label>
-          <input type="text" id="deadline" name="deadline">
+          <input type="text" id="deadline" name="deadline" placeholder="Deadline...">
+
+          <input type="text" id="tags" name="tags" placeholder="Tags...">
       
-          <label for="tags">Tags:</label>
-          <input type="text" id="tags" name="tags" required>
+          <input type="text" id="linked_url" name="linked_url" placeholder="LinkedIn URL...">
       
-          <label for="linked_url">LinkedIn URL:</label>
-          <input type="text" id="linked_url" name="linked_url" required>
+          <label id="thumbnail_url_label" for="thumbnail_url" class="btn">Thumbnail Image</label>
+          <input type="file" id="thumbnail_url" style="display: none;" name="thumbnail_url" accept="image/*" onchange="displayFileName2(event)">
+          <script>
+            function displayFileName2(event) {
+              var fileName = event.target.files[0].name;
+              var fileNameElement = document.getElementById("thumbnail_url_label");
+              fileNameElement.textContent = fileName;
+            }
+          </script>
+
+          <label id="pdf_url_label" for="pdf_url" class="btn">PDF File</label>
+          <input type="file" id="pdf_url" style="display: none;" name="pdf_url" accept="application/pdf" placeholder="PDF File..." onchange="displayFileName1(event)">
+          <script>
+            function displayFileName1(event) {
+              var fileName = event.target.files[0].name;
+              var fileNameElement = document.getElementById("pdf_url_label");
+              fileNameElement.textContent = fileName;
+            }
+          </script>
       
-          <label for="pdf_url">PDF File:</label>
-          <input type="file" id="pdf_url" name="pdf_url" accept="application/pdf" required>
-      
-          <label for="thumbnail_url">Thumbnail Image:</label>
-          <input type="file" id="thumbnail_url" name="thumbnail_url" accept="image/*" required>
-      
-          <input type="submit" value="Upload">
+          <input type="submit" id="upload" value="Upload">
         </form>
       </div>
 
@@ -60,7 +70,7 @@
 
 
 
-    <footer class="footer">
+    <footer class="footer">   
         <div class="footer-content">
             <div class="contact-section">
                 <h2>Get in Touch</h2>
@@ -68,7 +78,7 @@
             </div>
             <div class="contact-info">
                 <div class="linkedIn">
-                    <a href="https://www.linkedin.com/in/elyes-hmouda/" target="_blank" 
+                    <a href="https://www.linkedin.com/in/elyes-hmouda/" target="_blank" >
                         <i class="fa-brands fa-linkedin"></i>
                         <p>Elyes Hmouda</p>
                     </a>
