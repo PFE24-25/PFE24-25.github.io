@@ -114,11 +114,11 @@ const updateResponse = await fetch(`https://api.github.com/repos/${owner}/${repo
 if (updateResponse.ok) {
     let submit_info = document.getElementById('submit_info');
     submit_info.innerText = "Book added successfully!";
-    submit_info.style.color = "green";
+    submit_info.style.color = "#2adf73";
 }
 else {
     let submit_info = document.getElementById('submit_info');
     submit_info.innerText = "Error adding book. Please try again.";
-    submit_info.style.color = "red";
+    submit_info.style.color = "#ff5e5e";
 }
 }
