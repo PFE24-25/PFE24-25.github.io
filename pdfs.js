@@ -60,4 +60,12 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/salma-abid-96471a162_cybersaezcuritaez-analystessoc-pentesters-activity-7252989036716290050-WQ2C?utm_source=share&utm_medium=member_desktop"
     },
 
-];
+
+{
+    "company": "acouna",
+    "deadline": "batata",
+    "Tags": "taggg",
+    "thumbnail_url": "/assets/images/1729448227430_acouna.png",
+    "pdf_url": "/assets/pdfs/1729448227430_acouna.pdf",
+    "linked_url": "www.google.com"
+},];
