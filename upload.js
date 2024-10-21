@@ -19,8 +19,8 @@ document.getElementById('uploadForm').addEventListener('submit', async function 
     const owner = 'pfe24-25';           // Replace with the actual repository owner
 
     // Upload PDF and Thumbnail
-    await uploadFileToGitHub(token, owner, repo, pdfPath, pdfFile);
-    await uploadFileToGitHub(token, owner, repo, thumbnailPath, thumbnailFile);
+    if(pdfFile)await uploadFileToGitHub(token, owner, repo, pdfPath, pdfFile);
+    if(thumbnailFile)await uploadFileToGitHub(token, owner, repo, thumbnailPath, thumbnailFile);
 
     // Modify pdfs.js to add the new book entry
     await modifyPdfsJS(token, owner, repo, company, deadline, tags, linked_url, pdfPath, thumbnailPath);
