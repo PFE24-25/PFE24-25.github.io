@@ -12,8 +12,8 @@ document.getElementById('uploadForm').addEventListener('submit', async function 
 
     // Generate unique timestamp for file names
     const timestamp = new Date().getTime();
-    const pdfPath = `/assets/pdfs/${timestamp}_${company.replace(/\s+/g, '')}.pdf`;
-    const thumbnailPath = `/assets/images/${timestamp}_${company.replace(/\s+/g, '')}.png`;
+    const pdfPath = pdfFile?`/assets/pdfs/${timestamp}_${company.replace(/\s+/g, '')}.pdf`:``;
+    const thumbnailPath = thumbnailFile?`/assets/images/${timestamp}_${company.replace(/\s+/g, '')}.png`:``;
 
     const repo = 'pfe24-25.github.io';  // Replace with the actual repository name
     const owner = 'pfe24-25';           // Replace with the actual repository owner
