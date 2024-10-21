@@ -7,7 +7,7 @@ function createCard(book) {
     card.classList.add('card');
     card.innerHTML = `  <div class="offer-img-container">
                             <a ${(book.pdf_url == "") ? "" : "href='"}${book.pdf_url}' target="_blank">
-                                <img src=".${book.thumbnail_url}" alt="pfe icon" class="offer-img">
+                                <img src="${(book.thumbnail_url=="")?"/assets/images/Placeholder.png":""}" alt="pfe icon" class="offer-img">
                             </a>
                         </div>
                         <div class="offer-info">
