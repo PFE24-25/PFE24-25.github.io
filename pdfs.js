@@ -59,4 +59,12 @@ books = [
         "pdf_url": "",
         "linked_url": "https://www.linkedin.com/posts/salma-abid-96471a162_cybersaezcuritaez-analystessoc-pentesters-activity-7252989036716290050-WQ2C?utm_source=share&utm_medium=member_desktop"
     },
-];
+
+{
+    "company": "Talan France",
+    "deadline": "",
+    "Tags": "SAP, BI, Data",
+    "thumbnail_url": "/assets/images/1729525934761_TalanFrance.png",
+    "pdf_url": "/assets/pdfs/1729525934761_TalanFrance.pdf",
+    "linked_url": "https://www.linkedin.com/posts/sophie-thevenet-798468111_talan-stage-recrutement-activity-7254069979023646721-6VId?utm_source=share&utm_medium=member_desktop"
+},];
