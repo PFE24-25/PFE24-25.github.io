@@ -34,7 +34,7 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/activity-7252312340052721667-vOMO?utm_source=share&utm_medium=member_desktop"
     },
 
-      {
+    {
         "company": "MANERGY",
         "deadline": "",
         "Tags": " Energétique, Environnementale",
@@ -42,7 +42,7 @@ books = [
         "pdf_url": "./assets/pdfs/MANERGY.pdf",
         "linked_url": "https://www.linkedin.com/posts/groupemanergy_recrutement-activity-7252599416124059649-WIhQ?utm_source=share&utm_medium=member_desktop"
     },
-        {
+    {
         "company": "Alteca",
         "deadline": "",
         "Tags": " Development Full Stack, Data, AI",
@@ -51,7 +51,7 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/alteca_stages-digital-lyon-activity-7252944013035454464-5wm5?utm_source=share&utm_medium=member_desktop"
     },
 
-          {
+    {
         "company": "HumanOne",
         "deadline": "",
         "Tags": " CyberSecurity, Analyse SOC, Pentesting, GRC",
@@ -59,4 +59,17 @@ books = [
         "pdf_url": "",
         "linked_url": "https://www.linkedin.com/posts/salma-abid-96471a162_cybersaezcuritaez-analystessoc-pentesters-activity-7252989036716290050-WQ2C?utm_source=share&utm_medium=member_desktop"
     },
+
+    {
+        "company": "Talan France",
+            "deadline": "",
+                "Tags": "SAP, BI, Data",
+                    "thumbnail_url": "/assets/images/1729525934761_TalanFrance.png",
+                        "pdf_url": "",
+                            "linked_url": "https://www.linkedin.com/posts/sophie-thevenet-798468111_talan-stage-recrutement-activity-7254069979023646721-6VId?utm_source=share&utm_medium=member_desktop"
+    }
 ];
+
+
+
+
