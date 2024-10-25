@@ -92,7 +92,15 @@ books = [
     "thumbnail_url": "/assets/images/1729892243811_Keyrus.png",
     "pdf_url": "",
     "linked_url": "https://www.linkedin.com/posts/sii_stage-letstechtogether-stagiairessii-activity-7254077112448421888-dnpy?utm_source=share&utm_medium=member_desktop"
-},];
+},
+    {
+        "company": " Tuneering",
+        "deadline": "15 November 2024",
+        "Tags": "AI, ML, DevOps, Web Development, ",
+        "thumbnail_url": "/assets/images/1729896140843_Tuneering.png",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/anouar-jammali_exciting-internship-opportunity-for-final-year-activity-7251542984184205313-dUNC?utm_source=share&utm_medium=member_desktop"
+    },];
 
 
 
