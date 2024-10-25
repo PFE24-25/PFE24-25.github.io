@@ -108,6 +108,14 @@ books = [
         "thumbnail_url": "/assets/images/1729897227427_ExcelliumServices.png",
         "pdf_url": "",
         "linked_url": "https://www.linkedin.com/posts/audrey-canal-b27798136_excelliumservices-telecomnancy-thalesgroup-activity-7254114638743662592-6Lvj?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Capgemini France",
+        "deadline": "",
+        "Tags": "Web Development",
+        "thumbnail_url": "/assets/images/1729897522561_CapgeminiFrance.png",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/ad%C3%A8le-sacher_stage-etude-developpement-activity-7251497890395615234-2blT?utm_source=share&utm_medium=member_desktop"
     },];
 
 
