@@ -76,6 +76,14 @@ books = [
     "thumbnail_url": "/assets/images/1729890501149_Tradrly.png",
     "pdf_url": "/assets/pdfs/1729890501149_Tradrly.pdf",
     "linked_url": "https://www.linkedin.com/posts/tradrly-tn_pfe-book-ugcPost-7255182762813362177-N-xu?utm_source=share&utm_medium=member_desktop"
+},
+{
+    "company": "Keyrus",
+    "deadline": "",
+    "Tags": "IT, BI, Data Science, Web Development,",
+    "thumbnail_url": "/assets/images/1729891856869_Keyrus.png",
+    "pdf_url": "",
+    "linked_url": "https://www.linkedin.com/posts/sabrine-arfaoui-21167aa4_pfe-keyrus-2025-keyrus-mea-activity-7254498738310680580-4WkD?utm_source=share&utm_medium=member_desktop"
 },];
 
 
