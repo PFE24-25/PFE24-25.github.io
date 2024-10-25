@@ -86,7 +86,7 @@ books = [
     "linked_url": "https://www.linkedin.com/posts/sabrine-arfaoui-21167aa4_pfe-keyrus-2025-keyrus-mea-activity-7254498738310680580-4WkD?utm_source=share&utm_medium=member_desktop"
 },
 {
-    "company": "Keyrus",
+    "company": "Groupe SII",
     "deadline": "",
     "Tags": "Web Development, Cybersecurity, Data, R&D, Test Automation, .Net, DevOps, IA, IVVQ, Embedded Systems",
     "thumbnail_url": "/assets/images/1729892243811_Keyrus.png",
