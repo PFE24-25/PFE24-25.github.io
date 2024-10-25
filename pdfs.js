@@ -67,7 +67,7 @@ books = [
                     "thumbnail_url": "/assets/images/talanFrance.png",
                         "pdf_url": "",
                             "linked_url": "https://www.linkedin.com/posts/sophie-thevenet-798468111_talan-stage-recrutement-activity-7254069979023646721-6VId?utm_source=share&utm_medium=member_desktop"
-    }
+    },
 
 {
     "company": "Tradrly ",
