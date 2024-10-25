@@ -68,7 +68,15 @@ books = [
                         "pdf_url": "",
                             "linked_url": "https://www.linkedin.com/posts/sophie-thevenet-798468111_talan-stage-recrutement-activity-7254069979023646721-6VId?utm_source=share&utm_medium=member_desktop"
     }
-];
+
+{
+    "company": "Tradrly ",
+    "deadline": "",
+    "Tags": "AI, BI, Data, Web Development, Mobile Development",
+    "thumbnail_url": "/assets/images/1729890501149_Tradrly.png",
+    "pdf_url": "/assets/pdfs/1729890501149_Tradrly.pdf",
+    "linked_url": "https://www.linkedin.com/posts/tradrly-tn_pfe-book-ugcPost-7255182762813362177-N-xu?utm_source=share&utm_medium=member_desktop"
+},];
 
 
 
