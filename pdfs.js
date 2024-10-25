@@ -84,6 +84,14 @@ books = [
     "thumbnail_url": "/assets/images/1729891856869_Keyrus.png",
     "pdf_url": "",
     "linked_url": "https://www.linkedin.com/posts/sabrine-arfaoui-21167aa4_pfe-keyrus-2025-keyrus-mea-activity-7254498738310680580-4WkD?utm_source=share&utm_medium=member_desktop"
+},
+{
+    "company": "Keyrus",
+    "deadline": "",
+    "Tags": "Web Development, Cybersecurity, Data, R&D, Test Automation, .Net, DevOps, IA, IVVQ, Embedded Systems",
+    "thumbnail_url": "/assets/images/1729892243811_Keyrus.png",
+    "pdf_url": "",
+    "linked_url": "https://www.linkedin.com/posts/sii_stage-letstechtogether-stagiairessii-activity-7254077112448421888-dnpy?utm_source=share&utm_medium=member_desktop"
 },];
 
 
