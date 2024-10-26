@@ -124,6 +124,14 @@ books = [
         "thumbnail_url": "/assets/images/1729948873912_Tendanz.png",
         "pdf_url": "",
         "linked_url": "https://www.linkedin.com/posts/anissa-ben-hamza-7627621bb_we-are-hiring-check-out-this-job-at-tendanz-activity-7255650151128567808-iMRg?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "FeverTokens",
+        "deadline": "",
+        "Tags": "Backend, DevOps",
+        "thumbnail_url": "/assets/images/1729950028560_FeverTokens.png",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/marocjobalert-com_stages-devops-backend-chez-fevertokens-activity-7255903531830841344-gSdn?utm_source=share&utm_medium=member_desktop"
     },];
 
 
