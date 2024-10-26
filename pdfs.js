@@ -116,6 +116,14 @@ books = [
         "thumbnail_url": "/assets/images/1729897522561_CapgeminiFrance.png",
         "pdf_url": "",
         "linked_url": "https://www.linkedin.com/posts/ad%C3%A8le-sacher_stage-etude-developpement-activity-7251497890395615234-2blT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": " Tendanz",
+        "deadline": "",
+        "Tags": "Data Science, ML",
+        "thumbnail_url": "/assets/images/1729948873912_Tendanz.png",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/anissa-ben-hamza-7627621bb_we-are-hiring-check-out-this-job-at-tendanz-activity-7255650151128567808-iMRg?utm_source=share&utm_medium=member_desktop"
     },];
 
 
