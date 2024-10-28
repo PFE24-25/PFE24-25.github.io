@@ -140,6 +140,14 @@ books = [
         "thumbnail_url": "/assets/images/WiseVision.jpg",
         "pdf_url": "/assets/pdfs/1730146714640_WiseVision.pdf",
         "linked_url": "https://www.linkedin.com/posts/wisevisiontechnologies_wisevision-pfe-book-2025-ugcPost-7256626898619809792-AhVA?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": " Adria Business & Technology",
+        "deadline": "",
+        "Tags": "Web Development, Data, Mobile Development, ",
+        "thumbnail_url": "/assets/images/1730150234229_AdriaBusiness&Technology.png",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/inass-kortmani-6a155a186_nous-sommes-%C3%A0-la-recherche-de-stagiaires-activity-7255609706533064704-_wrU?utm_source=share&utm_medium=member_desktop"
     },];
 
 
