@@ -132,6 +132,14 @@ books = [
         "thumbnail_url": "/assets/images/1729950028560_FeverTokens.png",
         "pdf_url": "",
         "linked_url": "https://www.linkedin.com/posts/marocjobalert-com_stages-devops-backend-chez-fevertokens-activity-7255903531830841344-gSdn?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "WiseVision",
+        "deadline": "",
+        "Tags": "AI, Computer Vision, LLms, Data, AWS",
+        "thumbnail_url": "/assets/images/1730146714640_WiseVision.png",
+        "pdf_url": "/assets/pdfs/1730146714640_WiseVision.pdf",
+        "linked_url": "https://www.linkedin.com/posts/wisevisiontechnologies_wisevision-pfe-book-2025-ugcPost-7256626898619809792-AhVA?utm_source=share&utm_medium=member_desktop"
     },];
 
 
