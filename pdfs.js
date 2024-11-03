@@ -1,6 +1,15 @@
 
 
 books = [
+
+    {
+        "company": "Sagemcom",
+        "deadline": "",
+        "Tags": "",
+        "thumbnail_url": "/assets/images/Sagemcom.png",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/baldi-khawla-514b171a7_la-campagne-de-recrutement-de-stages-pfe-activity-7257026741959872513-hF_N?utm_source=share&utm_medium=member_desktop"
+    },
     {
         "company": "EmyeHR",
         "deadline": "",
