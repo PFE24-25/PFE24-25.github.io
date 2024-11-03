@@ -2,6 +2,14 @@
 
 books = [
     {
+        "company": "EmyeHR",
+        "deadline": "",
+        "Tags": "AI, Data, Web Development, Social Media Management, UI/UX Design, Sales",
+        "thumbnail_url": "/assets/images/EmyeHR.png",
+        "pdf_url": "./assets/pdfs/EmyeHR.pdf",
+        "linked_url": "https://www.linkedin.com/posts/yaya-traore_pfe-activity-7254804388110602240-OjUb?utm_source=share&utm_medium=member_desktop"
+    },
+    {
         "company": "Tunisie Telecom",
         "deadline": "22 November 2024",
         "Tags": " Web, Mobile, Embedded, IoT, AI, Data, Telecom, 5G, Security, Cloud, LSS",
