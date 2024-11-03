@@ -2,6 +2,47 @@
 
 books = [
     {
+        "company": "Tunisie Telecom",
+        "deadline": "22 November 2024",
+        "Tags": " Web, Mobile, Embedded, IoT, AI, Data, Telecom, 5G, Security, Cloud, LSS",
+        "thumbnail_url": "/assets/images/TT.png",
+        "pdf_url": "./assets/pdfs/TT.pdf",
+        "linked_url": "https://www.linkedin.com/posts/tunisie-t-l-com_pfe-book-2024-2025-activity-7258419340645941248-ECmj?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Groupe Smile",
+        "deadline": "",
+        "Tags": " Web Development, Business Apps, Data, Embedded, IoT",
+        "thumbnail_url": "/assets/images/Smile.png",
+        "pdf_url": "./assets/pdfs/Smile.pdf",
+        "linked_url": "https://www.linkedin.com/posts/smile_book-de-stage-2024-2025-activity-7254856267297357825-nG7e?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "DataDolt",
+        "deadline": "",
+        "Tags": " 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙞𝙫𝙚 𝘼𝙄, Cloud, Security",
+        "thumbnail_url": "/assets/images/DataDolt.png",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/datadoit_opportunity-alert-%F0%9D%97%99%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%AC%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%BF-activity-7254170985585623040-PQfZ?utm_source=share&utm_medium=member_desktop"
+    },
+    
+    {
+        "company": "DataDolt",
+        "deadline": "",
+        "Tags": " Climate Data Science",
+        "thumbnail_url": "/assets/images/DataDolt.png",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/datadoit_datadoit-datascience-climatetech-activity-7258842206487150592-XsT_?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "WeFactory",
+        "deadline": "",
+        "Tags": " Web Development, Mobile Development, Design, Marketing",
+        "thumbnail_url": "/assets/images/WeFactory.png",
+        "pdf_url": "./assets/pdfs/WeFactory.pdf",
+        "linked_url": "https://www.linkedin.com/posts/yaya-traore_catalogue-activity-7258858584514420736-mmvq?utm_source=share&utm_medium=member_desktop"
+    },
+    {
         "company": "Olindias",
         "deadline": "3 November 2024",
         "Tags": " AI",
@@ -37,7 +78,7 @@ books = [
     {
         "company": "MANERGY",
         "deadline": "",
-        "Tags": " Energétique, Environnementale",
+        "Tags": " Energy, Environment",
         "thumbnail_url": "/assets/images/MANERGY.jpg",
         "pdf_url": "./assets/pdfs/MANERGY.pdf",
         "linked_url": "https://www.linkedin.com/posts/groupemanergy_recrutement-activity-7252599416124059649-WIhQ?utm_source=share&utm_medium=member_desktop"
@@ -45,7 +86,7 @@ books = [
     {
         "company": "Alteca",
         "deadline": "",
-        "Tags": " Development Full Stack, Data, AI",
+        "Tags": " Full Stack Development, Data, AI",
         "thumbnail_url": "/assets/images/Alteca.jpg",
         "pdf_url": "./assets/pdfs/Alteca.pdf",
         "linked_url": "https://www.linkedin.com/posts/alteca_stages-digital-lyon-activity-7252944013035454464-5wm5?utm_source=share&utm_medium=member_desktop"
@@ -54,7 +95,7 @@ books = [
     {
         "company": "HumanOne",
         "deadline": "",
-        "Tags": " CyberSecurity, Analyse SOC, Pentesting, GRC",
+        "Tags": " CyberSecurity, SOC Analysis, Pentesting, GRC",
         "thumbnail_url": "/assets/images/HumanOne.jpg",
         "pdf_url": "",
         "linked_url": "https://www.linkedin.com/posts/salma-abid-96471a162_cybersaezcuritaez-analystessoc-pentesters-activity-7252989036716290050-WQ2C?utm_source=share&utm_medium=member_desktop"
@@ -80,7 +121,7 @@ books = [
 {
     "company": "Keyrus",
     "deadline": "",
-    "Tags": "IT, BI, Data Science, Web Development,",
+    "Tags": "IT, BI, Data Science, Web Development",
     "thumbnail_url": "/assets/images/Keyrus.jpg",
     "pdf_url": "",
     "linked_url": "https://www.linkedin.com/posts/sabrine-arfaoui-21167aa4_pfe-keyrus-2025-keyrus-mea-activity-7254498738310680580-4WkD?utm_source=share&utm_medium=member_desktop"
@@ -96,7 +137,7 @@ books = [
     {
         "company": " Tuneering",
         "deadline": "15 November 2024",
-        "Tags": "AI, ML, DevOps, Web Development, ",
+        "Tags": "AI, ML, DevOps, Web Development ",
         "thumbnail_url": "/assets/images/Tuneering.jpg",
         "pdf_url": "",
         "linked_url": "https://www.linkedin.com/posts/anouar-jammali_exciting-internship-opportunity-for-final-year-activity-7251542984184205313-dUNC?utm_source=share&utm_medium=member_desktop"
@@ -144,7 +185,7 @@ books = [
     {
         "company": " Adria Business & Technology",
         "deadline": "",
-        "Tags": "Web Development, Data, Mobile Development, ",
+        "Tags": "Web Development, Data, Mobile Development ",
         "thumbnail_url": "/assets/images/1730150234229_AdriaBusiness&Technology.png",
         "pdf_url": "",
         "linked_url": "https://www.linkedin.com/posts/inass-kortmani-6a155a186_nous-sommes-%C3%A0-la-recherche-de-stagiaires-activity-7255609706533064704-_wrU?utm_source=share&utm_medium=member_desktop"
