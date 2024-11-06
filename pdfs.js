@@ -3,12 +3,44 @@
 books = [
 
     {
-        "company": "KPMG",
+        "company": "EY",
+        "deadline": "24 November 2024",
+        "Tags": "accounting, Big Data, AI, Risk Management, IT, Cybersecurity, Management, Consulting, Industrial, Finance, HR, Web development, Design, Statistics, Network, cloud",
+        "thumbnail_url": "/assets/images/EY.png",
+        "pdf_url":  "./assets/pdfs/EY.pdf",
+        "linked_url": "https://www.linkedin.com/posts/hamza-khamassi_pfe-book-activity-7259931435342462976--5Q9?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "IT Gate",
+        "deadline": "10 December 2024",
+        "Tags": "",
+        "thumbnail_url": "/assets/images/ITGate.png",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/itgate-group_stage2025-pfe-itgate-activity-7259896434324295682-rhdh?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Dar Blockchain",
+        "deadline": "30 November 2024",
+        "Tags": "Python, AI, ML, Web Development, BI, Blockchain, Design",
+        "thumbnail_url": "/assets/images/DarBlockchain.png",
+        "pdf_url": "./assets/pdfs/DarBlockchain.pdf",
+        "linked_url": "https://www.linkedin.com/posts/dar-blockchain_pfe-book-tech-2025-activity-7259921019019137024-Kx_-?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "NiceTek",
         "deadline": "",
-        "Tags": "IT, CyberSecurity, ERP, AI, BI ",
-        "thumbnail_url": "/assets/images/KPMG.png",
-        "pdf_url": "./assets/pdfs/KPMG.pdf",
-        "linked_url": "https://www.linkedin.com/posts/kpmgtechmaghreb_catalogue-pfe-tech-ugcPost-7257657440253472768-d1pk?utm_source=share&utm_medium=member_desktop"
+        "Tags": "Digital Marketing ,Web Development, graphic design, Sales, ux/ui Design, Mobile Developement, Managment, Data science",
+        "thumbnail_url": "/assets/images/NiceTek.png",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/benj-sami_formation-stage-pfe-activity-7259632859915669504-xUa4?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "KPMG Tunisia",
+        "deadline": "",
+        "Tags": "Audit, Fiscalité, Controle de Gestion, Marketing",
+        "thumbnail_url": "/assets/images/KMPGTunisia.png",
+        "pdf_url": "./assets/pdfs/KMPGTunisia.pdf",
+        "linked_url": "https://www.linkedin.com/posts/kpmg-tunisia_kpmg-pfe-book-2024-2025-activity-7259619248342253570-N4oo?utm_source=share&utm_medium=member_desktop"
     },
     {
         "company": "Value",
