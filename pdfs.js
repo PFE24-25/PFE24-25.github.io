@@ -3,6 +3,14 @@
 books = [
 
     {
+        "company": "Value",
+        "deadline": "",
+        "Tags": "Web Development, Mobile Development, AI, DevOps, QA, Automation, Marketing, Sales, Business Development, Digital Marketing, Graphic Design, Management",
+        "thumbnail_url": "/assets/images/Value.png",
+        "pdf_url": "./assets/pdfs/Value.pdf",
+        "linked_url": "https://www.linkedin.com/posts/value-tunisie_catalogue-pfe-2024-2025-activity-7259191338087174145-ZgMd?utm_source=share&utm_medium=member_desktop"
+    },
+    {
         "company": "celestial Wave Digital",
         "deadline": "",
         "Tags": "Web Development, Mobile Development",
