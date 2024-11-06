@@ -3,6 +3,15 @@
 books = [
 
     {
+        "company": "Freedom of Dev",
+        "deadline": "",
+        "Tags": "Web Development, AI, DevOps, Cloud, ",
+        "thumbnail_url": "/assets/images/FOD.png",
+        "pdf_url":  "./assets/pdfs/FOD.pdf",
+        "linked_url": "https://www.linkedin.com/posts/freedom-of-dev_fod-pfe-book-2024-2025-activity-7259851711190605824-aYUq?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
         "company": "EY",
         "deadline": "24 November 2024",
         "Tags": "accounting, Big Data, AI, Risk Management, IT, Cybersecurity, Management, Consulting, Industrial, Finance, HR, Web development, Design, Statistics, Network, cloud",
