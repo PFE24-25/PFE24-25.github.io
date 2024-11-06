@@ -3,6 +3,14 @@
 books = [
 
     {
+        "company": "KPMG",
+        "deadline": "",
+        "Tags": "IT, CyberSecurity, ERP, AI, BI ",
+        "thumbnail_url": "/assets/images/KPMG.png",
+        "pdf_url": "./assets/pdfs/KPMG.pdf",
+        "linked_url": "https://www.linkedin.com/posts/kpmgtechmaghreb_catalogue-pfe-tech-ugcPost-7257657440253472768-d1pk?utm_source=share&utm_medium=member_desktop"
+    },
+    {
         "company": "Value",
         "deadline": "",
         "Tags": "Web Development, Mobile Development, AI, DevOps, QA, Automation, Marketing, Sales, Business Development, Digital Marketing, Graphic Design, Management",
