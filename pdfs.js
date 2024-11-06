@@ -3,6 +3,46 @@
 books = [
 
     {
+        "company": "celestial Wave Digital",
+        "deadline": "",
+        "Tags": "Web Development, Mobile Development",
+        "thumbnail_url": "/assets/images/CWD.png",
+        "pdf_url": "./assets/pdfs/CWD.pdf",
+        "linked_url": "https://www.linkedin.com/posts/celestial-wave-digital_pfe-book-2025-activity-7259256705824305152-IY6w?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Pearls Consulting",
+        "deadline": "",
+        "Tags": "Management, Business, DevOps, PHP, Mobile Development",
+        "thumbnail_url": "/assets/images/PearlsCo.png",
+        "pdf_url": "./assets/pdfs/PearlsCo.pdf",
+        "linked_url": "https://www.linkedin.com/posts/manel-khammassi_2025-pfe-book-pearls-consulting-activity-7259152132572921857-tQkc?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Sofrecom",
+        "deadline": "21 november 2024",
+        "Tags": "DevOps, MLOps, Web Development, Mobile Development, AI, Python, Cloud, BI, Test Automation, Blockchain",
+        "thumbnail_url": "/assets/images/Sofrecom.png",
+        "pdf_url": "./assets/pdfs/Sofrecom.pdf",
+        "linked_url": "https://www.linkedin.com/posts/sofrecom-tunisie_sofrecomtunisie-apprentissage-stagepfe-activity-7259214236663369728-RmvT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "E-Skills Agency",
+        "deadline": "23 december 2024",
+        "Tags": "Web Development, QA, Business Development, Graphic Design, Video Editing, Odoo ",
+        "thumbnail_url": "/assets/images/Eskills.png",
+        "pdf_url": "./assets/pdfs/Eskills.pdf",
+        "linked_url": "https://www.linkedin.com/posts/eskillstn_catalogue-pfe-2024-2025-activity-7259235554246967296-k7Lt?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "SeekMake",
+        "deadline": "",
+        "Tags": "IT, UI/UX design, Copy Writing, QA testing, Graphic Design, Finance, Business Development, Marketing, Sales  ",
+        "thumbnail_url": "/assets/images/SeekMake.png",
+        "pdf_url": "./assets/pdfs/SeekMake.pdf",
+        "linked_url": "https://www.linkedin.com/posts/seekmake_pfe-book-activity-7259588130238857216-Hoou?utm_source=share&utm_medium=member_desktop"
+    },
+    {
         "company": "habemus! Solutions",
         "deadline": "",
         "Tags": "Embedded, AI, Web Development, Cloud",
