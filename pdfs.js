@@ -3,6 +3,54 @@
 books = [
 
     {
+        "company": "habemus! Solutions",
+        "deadline": "",
+        "Tags": "Embedded, AI, Web Development, Cloud",
+        "thumbnail_url": "/assets/images/habemus.png",
+        "pdf_url": "./assets/pdfs/habemus.pdf",
+        "linked_url": "https://www.linkedin.com/posts/habemus-solutions_habemus-solutions-pfe-book-2025-activity-7259551537515925506-c7Ga?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Mass Analytics",
+        "deadline": "",
+        "Tags": "Web Development, DevOps, QA",
+        "thumbnail_url": "/assets/images/MassAnalytics.png",
+        "pdf_url": "./assets/pdfs/MassAnalytics.pdf",
+        "linked_url": "https://www.linkedin.com/posts/mass_analytics_qa-devops-pfe-internships2025-activity-7259618049354293248-WQYu?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "KAMIOUN",
+        "deadline": "",
+        "Tags": "UI/UX Design, Web Development, Mobile Development, DevOps, Data, Finance, Supply Chain, Marketing",
+        "thumbnail_url": "/assets/images/KAMIOUN.png",
+        "pdf_url": "./assets/pdfs/KAMIOUN.pdf",
+        "linked_url": "https://www.linkedin.com/posts/kamioun_pfe-book-2025pdf-activity-7259534180928131074-9yk3?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Primatec",
+        "deadline": "",
+        "Tags": "Embedded, Testing, Automation, AI",
+        "thumbnail_url": "/assets/images/Primatec.png",
+        "pdf_url": "./assets/pdfs/Primatec.pdf",
+        "linked_url": "https://www.linkedin.com/posts/primatec-engineering_pfe-book-2025-activity-7259846576414605312-3Fyr?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Stockly",
+        "deadline": "",
+        "Tags": "Web Development",
+        "thumbnail_url": "/assets/images/Stockly.png",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/stockly_we-are-hiring-software-engineer-interns-activity-7259844495356170240-l-S0?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Leoni",
+        "deadline": "",
+        "Tags": "IT, Finance, Mechanics, Electronics, Mecatronics, Industrial, Embedded, Marketing, Psychology, Robotics",
+        "thumbnail_url": "/assets/images/Leoni.png",
+        "pdf_url": "./assets/pdfs/Leoni.pdf",
+        "linked_url": "https://www.linkedin.com/posts/farah-jemili_leoni-pfe-book-2024-2025-activity-7259856927390646273-9BCV?utm_source=share&utm_medium=member_desktop"
+    },
+    {
         "company": "Sagemcom",
         "deadline": "",
         "Tags": "",
