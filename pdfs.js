@@ -3,6 +3,14 @@
 books = [
     
     {
+        "company": "EFREKIADEV",
+        "deadline": "",
+        "Tags": "Web Development, UI/UX Design,  ",
+        "thumbnail_url": "/assets/images/Efrekiadev.png",
+        "pdf_url":  "./assets/pdfs/Efrekiadev.pdf",
+        "linked_url": "https://www.linkedin.com/jobs/view/4047135282"
+    },
+    {
         "company": "DNEXT",
         "deadline": "",
         "Tags": "AI, Generative AI, LLMs, DevOps, ",
@@ -409,7 +417,7 @@ books = [
         "thumbnail_url": "/assets/images/1730150234229_AdriaBusiness&Technology.png",
         "pdf_url": "",
         "linked_url": "https://www.linkedin.com/posts/inass-kortmani-6a155a186_nous-sommes-%C3%A0-la-recherche-de-stagiaires-activity-7255609706533064704-_wrU?utm_source=share&utm_medium=member_desktop"
-    }
+    },
 
     {
         "company": "DLS Gaming",
