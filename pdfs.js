@@ -38,7 +38,7 @@ books = [
         "company": "Inetum",
         "deadline": "6 December 2024",
         "Tags": "DevOps, Web Development, SAP, Dynamics 365",
-        "thumbnail_url": "/assets/images/Inetum.jpg",
+        "thumbnail_url": "/assets/images/Inetum.jpg", 
         "pdf_url":  "./assets/pdfs/Inetum.pdf",
         "linked_url": "https://www.linkedin.com/posts/inetum_inetum-pfe-book-2025-tunisia-activity-7259868161712287745-3Rst?utm_source=share&utm_medium=member_desktop"
     },
@@ -46,7 +46,7 @@ books = [
         "company": "SOPAL",
         "deadline": "20 December 2024",
         "Tags": "Technical development, IT, Supply Chain Management, Continuous Improvement, Product Quality and Metrology, SMI",
-        "thumbnail_url": "/assets/images/SOPAL.jpg",
+        "thumbnail_url": "/assets/images/SOPAL.png",
         "pdf_url":  "./assets/pdfs/SOPAL.pdf",
         "linked_url": "https://www.linkedin.com/posts/sopal_pfe-book-sopal-2024-2025-activity-7259892917689864194-l9T5?utm_source=share&utm_medium=member_desktop"
     },
@@ -64,7 +64,7 @@ books = [
         "company": "Finlogik Offshore Solutions",
         "deadline": "30 November 2024",
         "Tags": "Web Development, AI, Power BI, QA, Cybersecurity, DevOps ",
-        "thumbnail_url": "/assets/images/Finlogik.png",
+        "thumbnail_url": "/assets/images/Finlogik.jpg",
         "pdf_url":  "./assets/pdfs/Finlogik.pdf",
         "linked_url": "https://www.linkedin.com/posts/finlogikoffshoresolutions_finlogik-pfe-book-2025-activity-7260255878723870720-ovcg?utm_source=share&utm_medium=member_desktop"
     },
@@ -72,7 +72,7 @@ books = [
         "company": "Freedom of Dev",
         "deadline": "",
         "Tags": "Web Development, AI, DevOps, Cloud, ",
-        "thumbnail_url": "/assets/images/FOD.png",
+        "thumbnail_url": "/assets/images/FOD.jpg",
         "pdf_url":  "./assets/pdfs/FOD.pdf",
         "linked_url": "https://www.linkedin.com/posts/freedom-of-dev_fod-pfe-book-2024-2025-activity-7259851711190605824-aYUq?utm_source=share&utm_medium=member_desktop"
     },
@@ -81,7 +81,7 @@ books = [
         "company": "EY",
         "deadline": "24 November 2024",
         "Tags": "accounting, Big Data, AI, Risk Management, IT, Cybersecurity, Management, Consulting, Industrial, Finance, HR, Web development, Design, Statistics, Network, cloud",
-        "thumbnail_url": "/assets/images/EY.png",
+        "thumbnail_url": "/assets/images/EY.jpg",
         "pdf_url":  "./assets/pdfs/EY.pdf",
         "linked_url": "https://www.linkedin.com/posts/hamza-khamassi_pfe-book-activity-7259931435342462976--5Q9?utm_source=share&utm_medium=member_desktop"
     },
@@ -89,7 +89,7 @@ books = [
         "company": "IT Gate",
         "deadline": "10 December 2024",
         "Tags": "",
-        "thumbnail_url": "/assets/images/ITGate.png",
+        "thumbnail_url": "/assets/images/ITGate.jpg",
         "pdf_url": "",
         "linked_url": "https://www.linkedin.com/posts/itgate-group_stage2025-pfe-itgate-activity-7259896434324295682-rhdh?utm_source=share&utm_medium=member_desktop"
     },
@@ -105,7 +105,7 @@ books = [
         "company": "NiceTek",
         "deadline": "",
         "Tags": "Digital Marketing ,Web Development, graphic design, Sales, ux/ui Design, Mobile Developement, Managment, Data science",
-        "thumbnail_url": "/assets/images/NiceTek.png",
+        "thumbnail_url": "/assets/images/NiceTek.jpg",
         "pdf_url": "",
         "linked_url": "https://www.linkedin.com/posts/benj-sami_formation-stage-pfe-activity-7259632859915669504-xUa4?utm_source=share&utm_medium=member_desktop"
     },
@@ -113,7 +113,7 @@ books = [
         "company": "KPMG Tunisia",
         "deadline": "",
         "Tags": "Audit, Fiscalité, Controle de Gestion, Marketing",
-        "thumbnail_url": "/assets/images/KMPGTunisia.png",
+        "thumbnail_url": "/assets/images/KMPGTunisia.jpg",
         "pdf_url": "./assets/pdfs/KMPGTunisia.pdf",
         "linked_url": "https://www.linkedin.com/posts/kpmg-tunisia_kpmg-pfe-book-2024-2025-activity-7259619248342253570-N4oo?utm_source=share&utm_medium=member_desktop"
     },
@@ -137,7 +137,7 @@ books = [
         "company": "Pearls Consulting",
         "deadline": "",
         "Tags": "Management, Business, DevOps, PHP, Mobile Development",
-        "thumbnail_url": "/assets/images/PearlsCo.png",
+        "thumbnail_url": "/assets/images/PearlsCo.jpg",
         "pdf_url": "./assets/pdfs/PearlsCo.pdf",
         "linked_url": "https://www.linkedin.com/posts/manel-khammassi_2025-pfe-book-pearls-consulting-activity-7259152132572921857-tQkc?utm_source=share&utm_medium=member_desktop"
     },
@@ -169,7 +169,7 @@ books = [
         "company": "habemus! Solutions",
         "deadline": "",
         "Tags": "Embedded, AI, Web Development, Cloud",
-        "thumbnail_url": "/assets/images/habemus.png",
+        "thumbnail_url": "/assets/images/habemus.jpg",
         "pdf_url": "./assets/pdfs/habemus.pdf",
         "linked_url": "https://www.linkedin.com/posts/habemus-solutions_habemus-solutions-pfe-book-2025-activity-7259551537515925506-c7Ga?utm_source=share&utm_medium=member_desktop"
     },
@@ -225,7 +225,7 @@ books = [
         "company": "EmyeHR",
         "deadline": "",
         "Tags": "AI, Data, Web Development, Social Media Management, UI/UX Design, Sales",
-        "thumbnail_url": "/assets/images/EmyeHR.png",
+        "thumbnail_url": "/assets/images/EmyeHR.jpg",
         "pdf_url": "./assets/pdfs/EmyeHR.pdf",
         "linked_url": "https://www.linkedin.com/posts/yaya-traore_pfe-activity-7254804388110602240-OjUb?utm_source=share&utm_medium=member_desktop"
     },
@@ -241,7 +241,7 @@ books = [
         "company": "Groupe Smile",
         "deadline": "",
         "Tags": " Web Development, Business Apps, Data, Embedded, IoT",
-        "thumbnail_url": "/assets/images/Smile.png",
+        "thumbnail_url": "/assets/images/Smile.jpg",
         "pdf_url": "./assets/pdfs/Smile.pdf",
         "linked_url": "https://www.linkedin.com/posts/smile_book-de-stage-2024-2025-activity-7254856267297357825-nG7e?utm_source=share&utm_medium=member_desktop"
     },
@@ -423,7 +423,7 @@ books = [
         "company": "DLS Gaming",
         "deadline": "14 July 2024",
         "Tags": "Web Development, AI",
-        "thumbnail_url": "/assets/images/DlsGaming.png",
+        "thumbnail_url": "/assets/images/DlsGaming.jpg",
         "pdf_url":  "./assets/pdfs/DlsGaming.pdf",
         "linked_url": "https://www.linkedin.com/posts/dlsgaming_dlsgaming-pfebook-2024-activity-7216769908532006912-R4fy?utm_source=share&utm_medium=member_desktop"
     },];
