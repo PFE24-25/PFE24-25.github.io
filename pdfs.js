@@ -14,7 +14,7 @@ books = [
         "company": "DNEXT",
         "deadline": "",
         "Tags": "AI, Generative AI, LLMs, DevOps, ",
-        "thumbnail_url": "/assets/images/DNEXT.png",
+        "thumbnail_url": "/assets/images/DNEXT.jpg",
         "pdf_url":  "./assets/pdfs/DNEXT.pdf",
         "linked_url": "https://www.linkedin.com/posts/dnext-intelligence_dnext-pfe-book-24-25-activity-7259990277656907776-SlSa?utm_source=share&utm_medium=member_desktop"
     },
@@ -22,7 +22,7 @@ books = [
         "company": "ATS",
         "deadline": "",
         "Tags": "Web Development, PO, QA",
-        "thumbnail_url": "/assets/images/ATS.png",
+        "thumbnail_url": "/assets/images/ATS.jpg",
         "pdf_url":  "./assets/pdfs/ATS.pdf",
         "linked_url": "https://www.linkedin.com/posts/ats---digital-dev_pfe-book-ats-2025-activity-7246564406350761985-Gclf?utm_source=share&utm_medium=member_desktop"
     },
@@ -46,7 +46,7 @@ books = [
         "company": "SOPAL",
         "deadline": "20 December 2024",
         "Tags": "Technical development, IT, Supply Chain Management, Continuous Improvement, Product Quality and Metrology, SMI",
-        "thumbnail_url": "/assets/images/SOPAL.png",
+        "thumbnail_url": "/assets/images/SOPAL.jpg",
         "pdf_url":  "./assets/pdfs/SOPAL.pdf",
         "linked_url": "https://www.linkedin.com/posts/sopal_pfe-book-sopal-2024-2025-activity-7259892917689864194-l9T5?utm_source=share&utm_medium=member_desktop"
     },
@@ -97,7 +97,7 @@ books = [
         "company": "Dar Blockchain",
         "deadline": "30 November 2024",
         "Tags": "Python, AI, ML, Web Development, BI, Blockchain, Design",
-        "thumbnail_url": "/assets/images/DarBlockchain.png",
+        "thumbnail_url": "/assets/images/DarBlockchain.jpg",
         "pdf_url": "./assets/pdfs/DarBlockchain.pdf",
         "linked_url": "https://www.linkedin.com/posts/dar-blockchain_pfe-book-tech-2025-activity-7259921019019137024-Kx_-?utm_source=share&utm_medium=member_desktop"
     },
@@ -121,7 +121,7 @@ books = [
         "company": "Value",
         "deadline": "",
         "Tags": "Web Development, Mobile Development, AI, DevOps, QA, Automation, Marketing, Sales, Business Development, Digital Marketing, Graphic Design, Management",
-        "thumbnail_url": "/assets/images/Value.png",
+        "thumbnail_url": "/assets/images/Value.jpg",
         "pdf_url": "./assets/pdfs/Value.pdf",
         "linked_url": "https://www.linkedin.com/posts/value-tunisie_catalogue-pfe-2024-2025-activity-7259191338087174145-ZgMd?utm_source=share&utm_medium=member_desktop"
     },
@@ -129,7 +129,7 @@ books = [
         "company": "celestial Wave Digital",
         "deadline": "",
         "Tags": "Web Development, Mobile Development",
-        "thumbnail_url": "/assets/images/CWD.png",
+        "thumbnail_url": "/assets/images/CWD.jpg",
         "pdf_url": "./assets/pdfs/CWD.pdf",
         "linked_url": "https://www.linkedin.com/posts/celestial-wave-digital_pfe-book-2025-activity-7259256705824305152-IY6w?utm_source=share&utm_medium=member_desktop"
     },
@@ -145,7 +145,7 @@ books = [
         "company": "Sofrecom",
         "deadline": "21 november 2024",
         "Tags": "DevOps, MLOps, Web Development, Mobile Development, AI, Python, Cloud, BI, Test Automation, Blockchain",
-        "thumbnail_url": "/assets/images/Sofrecom.png",
+        "thumbnail_url": "/assets/images/Sofrecom.jpg",
         "pdf_url": "./assets/pdfs/Sofrecom.pdf",
         "linked_url": "https://www.linkedin.com/posts/sofrecom-tunisie_sofrecomtunisie-apprentissage-stagepfe-activity-7259214236663369728-RmvT?utm_source=share&utm_medium=member_desktop"
     },
@@ -153,7 +153,7 @@ books = [
         "company": "E-Skills Agency",
         "deadline": "23 december 2024",
         "Tags": "Web Development, QA, Business Development, Graphic Design, Video Editing, Odoo ",
-        "thumbnail_url": "/assets/images/Eskills.png",
+        "thumbnail_url": "/assets/images/Eskills.jpg",
         "pdf_url": "./assets/pdfs/Eskills.pdf",
         "linked_url": "https://www.linkedin.com/posts/eskillstn_catalogue-pfe-2024-2025-activity-7259235554246967296-k7Lt?utm_source=share&utm_medium=member_desktop"
     },
@@ -161,7 +161,7 @@ books = [
         "company": "SeekMake",
         "deadline": "",
         "Tags": "IT, UI/UX design, Copy Writing, QA testing, Graphic Design, Finance, Business Development, Marketing, Sales  ",
-        "thumbnail_url": "/assets/images/SeekMake.png",
+        "thumbnail_url": "/assets/images/SeekMake.jpg",
         "pdf_url": "./assets/pdfs/SeekMake.pdf",
         "linked_url": "https://www.linkedin.com/posts/seekmake_pfe-book-activity-7259588130238857216-Hoou?utm_source=share&utm_medium=member_desktop"
     },
@@ -185,7 +185,7 @@ books = [
         "company": "KAMIOUN",
         "deadline": "",
         "Tags": "UI/UX Design, Web Development, Mobile Development, DevOps, Data, Finance, Supply Chain, Marketing",
-        "thumbnail_url": "/assets/images/KAMIOUN.png",
+        "thumbnail_url": "/assets/images/KAMIOUN.jpg",
         "pdf_url": "./assets/pdfs/KAMIOUN.pdf",
         "linked_url": "https://www.linkedin.com/posts/kamioun_pfe-book-2025pdf-activity-7259534180928131074-9yk3?utm_source=share&utm_medium=member_desktop"
     },
@@ -193,7 +193,7 @@ books = [
         "company": "Primatec",
         "deadline": "",
         "Tags": "Embedded, Testing, Automation, AI",
-        "thumbnail_url": "/assets/images/Primatec.png",
+        "thumbnail_url": "/assets/images/Primatec.jpg",
         "pdf_url": "./assets/pdfs/Primatec.pdf",
         "linked_url": "https://www.linkedin.com/posts/primatec-engineering_pfe-book-2025-activity-7259846576414605312-3Fyr?utm_source=share&utm_medium=member_desktop"
     },
@@ -201,7 +201,7 @@ books = [
         "company": "Stockly",
         "deadline": "",
         "Tags": "Web Development",
-        "thumbnail_url": "/assets/images/Stockly.png",
+        "thumbnail_url": "/assets/images/Stockly.jpg",
         "pdf_url": "",
         "linked_url": "https://www.linkedin.com/posts/stockly_we-are-hiring-software-engineer-interns-activity-7259844495356170240-l-S0?utm_source=share&utm_medium=member_desktop"
     },
@@ -209,7 +209,7 @@ books = [
         "company": "Leoni",
         "deadline": "",
         "Tags": "IT, Finance, Mechanics, Electronics, Mecatronics, Industrial, Embedded, Marketing, Psychology, Robotics",
-        "thumbnail_url": "/assets/images/Leoni.png",
+        "thumbnail_url": "/assets/images/Leoni.jpg",
         "pdf_url": "./assets/pdfs/Leoni.pdf",
         "linked_url": "https://www.linkedin.com/posts/farah-jemili_leoni-pfe-book-2024-2025-activity-7259856927390646273-9BCV?utm_source=share&utm_medium=member_desktop"
     },
@@ -217,7 +217,7 @@ books = [
         "company": "Sagemcom",
         "deadline": "",
         "Tags": "",
-        "thumbnail_url": "/assets/images/Sagemcom.png",
+        "thumbnail_url": "/assets/images/Sagemcom.jpg",
         "pdf_url": "",
         "linked_url": "https://www.linkedin.com/posts/baldi-khawla-514b171a7_la-campagne-de-recrutement-de-stages-pfe-activity-7257026741959872513-hF_N?utm_source=share&utm_medium=member_desktop"
     },
@@ -233,7 +233,7 @@ books = [
         "company": "Tunisie Telecom",
         "deadline": "22 November 2024",
         "Tags": " Web, Mobile, Embedded, IoT, AI, Data, Telecom, 5G, Security, Cloud, LSS",
-        "thumbnail_url": "/assets/images/TT.png",
+        "thumbnail_url": "/assets/images/TT.jpg",
         "pdf_url": "./assets/pdfs/TT.pdf",
         "linked_url": "https://www.linkedin.com/posts/tunisie-t-l-com_pfe-book-2024-2025-activity-7258419340645941248-ECmj?utm_source=share&utm_medium=member_desktop"
     },
@@ -266,7 +266,7 @@ books = [
         "company": "WeFactory",
         "deadline": "",
         "Tags": " Web Development, Mobile Development, Design, Marketing",
-        "thumbnail_url": "/assets/images/WeFactory.png",
+        "thumbnail_url": "/assets/images/WeFactory.jpg",
         "pdf_url": "./assets/pdfs/WeFactory.pdf",
         "linked_url": "https://www.linkedin.com/posts/yaya-traore_catalogue-activity-7258858584514420736-mmvq?utm_source=share&utm_medium=member_desktop"
     },
