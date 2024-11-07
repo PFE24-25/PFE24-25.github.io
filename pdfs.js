@@ -1,7 +1,65 @@
 
 
 books = [
+    
+    {
+        "company": "DNEXT",
+        "deadline": "",
+        "Tags": "AI, Generative AI, LLMs, DevOps, ",
+        "thumbnail_url": "/assets/images/DNEXT.png",
+        "pdf_url":  "./assets/pdfs/DNEXT.pdf",
+        "linked_url": "https://www.linkedin.com/posts/dnext-intelligence_dnext-pfe-book-24-25-activity-7259990277656907776-SlSa?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "ATS",
+        "deadline": "",
+        "Tags": "Web Development, PO, QA",
+        "thumbnail_url": "/assets/images/ATS.png",
+        "pdf_url":  "./assets/pdfs/ATS.pdf",
+        "linked_url": "https://www.linkedin.com/posts/ats---digital-dev_pfe-book-ats-2025-activity-7246564406350761985-Gclf?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Digital Research Center of Sfax",
+        "deadline": "",
+        "Tags": "AI, Deep Learning, Remote Sensing",
+        "thumbnail_url": "/assets/images/CRNS.png",
+        "pdf_url":  "./assets/pdfs/CRNS.pdf",
+        "linked_url": "https://www.linkedin.com/company/digital-research-center-sfax/posts/?feedView=all"
+    },
+    {
+        "company": "Inetum",
+        "deadline": "6 December 2024",
+        "Tags": "DevOps, Web Development, SAP, Dynamics 365",
+        "thumbnail_url": "/assets/images/Inetum.jpg",
+        "pdf_url":  "./assets/pdfs/Inetum.pdf",
+        "linked_url": "https://www.linkedin.com/posts/inetum_inetum-pfe-book-2025-tunisia-activity-7259868161712287745-3Rst?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "SOPAL",
+        "deadline": "20 December 2024",
+        "Tags": "Technical development, IT, Supply Chain Management, Continuous Improvement, Product Quality and Metrology, SMI",
+        "thumbnail_url": "/assets/images/SOPAL.jpg",
+        "pdf_url":  "./assets/pdfs/SOPAL.pdf",
+        "linked_url": "https://www.linkedin.com/posts/sopal_pfe-book-sopal-2024-2025-activity-7259892917689864194-l9T5?utm_source=share&utm_medium=member_desktop"
+    },
 
+    {
+        "company": "InstaDeep",
+        "deadline": "",
+        "Tags": " AI, Software Engineering, MLOps, QA",
+        "thumbnail_url": "/assets/images/InstaDeep.jpg",
+        "pdf_url":  "",
+        "linked_url": "https://www.linkedin.com/posts/instadeep_instadeep-internship-careeropportunities-activity-7255121469691596800-rPdI?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Finlogik Offshore Solutions",
+        "deadline": "30 November 2024",
+        "Tags": "Web Development, AI, Power BI, QA, Cybersecurity, DevOps ",
+        "thumbnail_url": "/assets/images/Finlogik.png",
+        "pdf_url":  "./assets/pdfs/Finlogik.pdf",
+        "linked_url": "https://www.linkedin.com/posts/finlogikoffshoresolutions_finlogik-pfe-book-2025-activity-7260255878723870720-ovcg?utm_source=share&utm_medium=member_desktop"
+    },
     {
         "company": "Freedom of Dev",
         "deadline": "",
@@ -351,6 +409,15 @@ books = [
         "thumbnail_url": "/assets/images/1730150234229_AdriaBusiness&Technology.png",
         "pdf_url": "",
         "linked_url": "https://www.linkedin.com/posts/inass-kortmani-6a155a186_nous-sommes-%C3%A0-la-recherche-de-stagiaires-activity-7255609706533064704-_wrU?utm_source=share&utm_medium=member_desktop"
+    }
+
+    {
+        "company": "DLS Gaming",
+        "deadline": "14 July 2024",
+        "Tags": "Web Development, AI",
+        "thumbnail_url": "/assets/images/DlsGaming.png",
+        "pdf_url":  "./assets/pdfs/DlsGaming.pdf",
+        "linked_url": "https://www.linkedin.com/posts/dlsgaming_dlsgaming-pfebook-2024-activity-7216769908532006912-R4fy?utm_source=share&utm_medium=member_desktop"
     },];
 
 
