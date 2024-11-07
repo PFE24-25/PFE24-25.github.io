@@ -5,7 +5,7 @@ books = [
     {
         "company": "EFREKIADEV",
         "deadline": "",
-        "Tags": "Web Development, UI/UX Design,  ",
+        "Tags": "Web Development, UI/UX Design",
         "thumbnail_url": "/assets/images/Efrekiadev.png",
         "pdf_url":  "./assets/pdfs/Efrekiadev.pdf",
         "linked_url": "https://www.linkedin.com/jobs/view/4047135282"
@@ -13,7 +13,7 @@ books = [
     {
         "company": "DNEXT",
         "deadline": "",
-        "Tags": "AI, Generative AI, LLMs, DevOps, ",
+        "Tags": "AI, Generative AI, LLMs, DevOps",
         "thumbnail_url": "/assets/images/DNEXT.jpg",
         "pdf_url":  "./assets/pdfs/DNEXT.pdf",
         "linked_url": "https://www.linkedin.com/posts/dnext-intelligence_dnext-pfe-book-24-25-activity-7259990277656907776-SlSa?utm_source=share&utm_medium=member_desktop"
@@ -27,7 +27,7 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/ats---digital-dev_pfe-book-ats-2025-activity-7246564406350761985-Gclf?utm_source=share&utm_medium=member_desktop"
     },
     {
-        "company": "Digital Research Center of Sfax",
+        "company": "CRNS",
         "deadline": "",
         "Tags": "AI, Deep Learning, Remote Sensing",
         "thumbnail_url": "/assets/images/CRNS.png",

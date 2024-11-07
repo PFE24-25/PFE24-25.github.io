@@ -27,6 +27,13 @@ body{
     background: radial-gradient(circle, var(--background_color1) 0%, var(--background_color1) 50%, var(--background_color2) 100%);
 }
 
+.title{
+    font-family: Times New Roman ,serif;
+    font-size: 1.7rem;
+    font-weight: 900;
+    margin-left: 15px;
+}
+
 #background
 {
     position: absolute;
