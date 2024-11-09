@@ -1,137 +1,13 @@
 
 
-books = [
-    
+books = [ 
     {
-        "company": "EFREKIADEV",
-        "deadline": "",
-        "Tags": "Web Development, UI/UX Design",
-        "thumbnail_url": "/assets/images/Efrekiadev.png",
-        "pdf_url":  "./assets/pdfs/Efrekiadev.pdf",
-        "linked_url": "https://www.linkedin.com/jobs/view/4047135282"
-    },
-    {
-        "company": "DNEXT",
-        "deadline": "",
-        "Tags": "AI, Generative AI, LLMs, DevOps",
-        "thumbnail_url": "/assets/images/DNEXT.jpg",
-        "pdf_url":  "./assets/pdfs/DNEXT.pdf",
-        "linked_url": "https://www.linkedin.com/posts/dnext-intelligence_dnext-pfe-book-24-25-activity-7259990277656907776-SlSa?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        "company": "ATS",
-        "deadline": "",
-        "Tags": "Web Development, PO, QA",
-        "thumbnail_url": "/assets/images/ATS.jpg",
-        "pdf_url":  "./assets/pdfs/ATS.pdf",
-        "linked_url": "https://www.linkedin.com/posts/ats---digital-dev_pfe-book-ats-2025-activity-7246564406350761985-Gclf?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        "company": "CRNS",
-        "deadline": "",
-        "Tags": "AI, Deep Learning, Remote Sensing",
-        "thumbnail_url": "/assets/images/CRNS.png",
-        "pdf_url":  "./assets/pdfs/CRNS.pdf",
-        "linked_url": "https://www.linkedin.com/company/digital-research-center-sfax/posts/?feedView=all"
-    },
-    {
-        "company": "Inetum",
-        "deadline": "6 December 2024",
-        "Tags": "DevOps, Web Development, SAP, Dynamics 365",
-        "thumbnail_url": "/assets/images/Inetum.jpg", 
-        "pdf_url":  "./assets/pdfs/Inetum.pdf",
-        "linked_url": "https://www.linkedin.com/posts/inetum_inetum-pfe-book-2025-tunisia-activity-7259868161712287745-3Rst?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        "company": "SOPAL",
-        "deadline": "20 December 2024",
-        "Tags": "Technical development, IT, Supply Chain Management, Continuous Improvement, Product Quality and Metrology, SMI",
-        "thumbnail_url": "/assets/images/SOPAL.jpg",
-        "pdf_url":  "./assets/pdfs/SOPAL.pdf",
-        "linked_url": "https://www.linkedin.com/posts/sopal_pfe-book-sopal-2024-2025-activity-7259892917689864194-l9T5?utm_source=share&utm_medium=member_desktop"
-    },
-
-    {
-        "company": "InstaDeep",
-        "deadline": "",
-        "Tags": " AI, Software Engineering, MLOps, QA",
-        "thumbnail_url": "/assets/images/InstaDeep.jpg",
-        "pdf_url":  "",
-        "linked_url": "https://www.linkedin.com/posts/instadeep_instadeep-internship-careeropportunities-activity-7255121469691596800-rPdI?utm_source=share&utm_medium=member_desktop"
-    },
-
-    {
-        "company": "Finlogik Offshore Solutions",
-        "deadline": "30 November 2024",
-        "Tags": "Web Development, AI, Power BI, QA, Cybersecurity, DevOps ",
-        "thumbnail_url": "/assets/images/Finlogik.jpg",
-        "pdf_url":  "./assets/pdfs/Finlogik.pdf",
-        "linked_url": "https://www.linkedin.com/posts/finlogikoffshoresolutions_finlogik-pfe-book-2025-activity-7260255878723870720-ovcg?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        "company": "Freedom of Dev",
-        "deadline": "",
-        "Tags": "Web Development, AI, DevOps, Cloud, ",
-        "thumbnail_url": "/assets/images/FOD.jpg",
-        "pdf_url":  "./assets/pdfs/FOD.pdf",
-        "linked_url": "https://www.linkedin.com/posts/freedom-of-dev_fod-pfe-book-2024-2025-activity-7259851711190605824-aYUq?utm_source=share&utm_medium=member_desktop"
-    },
-
-    {
-        "company": "EY",
-        "deadline": "24 November 2024",
-        "Tags": "accounting, Big Data, AI, Risk Management, IT, Cybersecurity, Management, Consulting, Industrial, Finance, HR, Web development, Design, Statistics, Network, cloud",
-        "thumbnail_url": "/assets/images/EY.jpg",
-        "pdf_url":  "./assets/pdfs/EY.pdf",
-        "linked_url": "https://www.linkedin.com/posts/hamza-khamassi_pfe-book-activity-7259931435342462976--5Q9?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        "company": "IT Gate",
-        "deadline": "10 December 2024",
-        "Tags": "",
-        "thumbnail_url": "/assets/images/ITGate.jpg",
-        "pdf_url": "",
-        "linked_url": "https://www.linkedin.com/posts/itgate-group_stage2025-pfe-itgate-activity-7259896434324295682-rhdh?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        "company": "Dar Blockchain",
-        "deadline": "30 November 2024",
-        "Tags": "Python, AI, ML, Web Development, BI, Blockchain, Design",
-        "thumbnail_url": "/assets/images/DarBlockchain.jpg",
-        "pdf_url": "./assets/pdfs/DarBlockchain.pdf",
-        "linked_url": "https://www.linkedin.com/posts/dar-blockchain_pfe-book-tech-2025-activity-7259921019019137024-Kx_-?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        "company": "NiceTek",
-        "deadline": "",
-        "Tags": "Digital Marketing ,Web Development, graphic design, Sales, ux/ui Design, Mobile Developement, Managment, Data science",
-        "thumbnail_url": "/assets/images/NiceTek.jpg",
-        "pdf_url": "",
-        "linked_url": "https://www.linkedin.com/posts/benj-sami_formation-stage-pfe-activity-7259632859915669504-xUa4?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        "company": "KPMG Tunisia",
-        "deadline": "",
-        "Tags": "Audit, Fiscalité, Controle de Gestion, Marketing",
-        "thumbnail_url": "/assets/images/KMPGTunisia.jpg",
-        "pdf_url": "./assets/pdfs/KMPGTunisia.pdf",
-        "linked_url": "https://www.linkedin.com/posts/kpmg-tunisia_kpmg-pfe-book-2024-2025-activity-7259619248342253570-N4oo?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        "company": "Value",
-        "deadline": "",
-        "Tags": "Web Development, Mobile Development, AI, DevOps, QA, Automation, Marketing, Sales, Business Development, Digital Marketing, Graphic Design, Management",
-        "thumbnail_url": "/assets/images/Value.jpg",
-        "pdf_url": "./assets/pdfs/Value.pdf",
-        "linked_url": "https://www.linkedin.com/posts/value-tunisie_catalogue-pfe-2024-2025-activity-7259191338087174145-ZgMd?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        "company": "celestial Wave Digital",
-        "deadline": "",
-        "Tags": "Web Development, Mobile Development",
-        "thumbnail_url": "/assets/images/CWD.jpg",
-        "pdf_url": "./assets/pdfs/CWD.pdf",
-        "linked_url": "https://www.linkedin.com/posts/celestial-wave-digital_pfe-book-2025-activity-7259256705824305152-IY6w?utm_source=share&utm_medium=member_desktop"
+        "company": "DLS Gaming",
+        "deadline": "14 July 2024",
+        "Tags": "Web Development, AI",
+        "thumbnail_url": "/assets/images/DlsGaming.jpg",
+        "pdf_url":  "./assets/pdfs/DlsGaming.pdf",
+        "linked_url": "https://www.linkedin.com/posts/dlsgaming_dlsgaming-pfebook-2024-activity-7216769908532006912-R4fy?utm_source=share&utm_medium=member_desktop"
     },
     {
         "company": "Pearls Consulting",
@@ -426,7 +302,141 @@ books = [
         "thumbnail_url": "/assets/images/DlsGaming.jpg",
         "pdf_url":  "./assets/pdfs/DlsGaming.pdf",
         "linked_url": "https://www.linkedin.com/posts/dlsgaming_dlsgaming-pfebook-2024-activity-7216769908532006912-R4fy?utm_source=share&utm_medium=member_desktop"
-    },];
+    },
+
+    {
+        "company": "EFREKIADEV",
+        "deadline": "",
+        "Tags": "Web Development, UI/UX Design",
+        "thumbnail_url": "/assets/images/Efrekiadev.png",
+        "pdf_url":  "./assets/pdfs/Efrekiadev.pdf",
+        "linked_url": "https://www.linkedin.com/jobs/view/4047135282"
+    },
+    {
+        "company": "DNEXT",
+        "deadline": "",
+        "Tags": "AI, Generative AI, LLMs, DevOps",
+        "thumbnail_url": "/assets/images/DNEXT.jpg",
+        "pdf_url":  "./assets/pdfs/DNEXT.pdf",
+        "linked_url": "https://www.linkedin.com/posts/dnext-intelligence_dnext-pfe-book-24-25-activity-7259990277656907776-SlSa?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "ATS",
+        "deadline": "",
+        "Tags": "Web Development, PO, QA",
+        "thumbnail_url": "/assets/images/ATS.jpg",
+        "pdf_url":  "./assets/pdfs/ATS.pdf",
+        "linked_url": "https://www.linkedin.com/posts/ats---digital-dev_pfe-book-ats-2025-activity-7246564406350761985-Gclf?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "CRNS",
+        "deadline": "",
+        "Tags": "AI, Deep Learning, Remote Sensing",
+        "thumbnail_url": "/assets/images/CRNS.png",
+        "pdf_url":  "./assets/pdfs/CRNS.pdf",
+        "linked_url": "https://www.linkedin.com/company/digital-research-center-sfax/posts/?feedView=all"
+    },
+    {
+        "company": "Inetum",
+        "deadline": "6 December 2024",
+        "Tags": "DevOps, Web Development, SAP, Dynamics 365",
+        "thumbnail_url": "/assets/images/Inetum.jpg", 
+        "pdf_url":  "./assets/pdfs/Inetum.pdf",
+        "linked_url": "https://www.linkedin.com/posts/inetum_inetum-pfe-book-2025-tunisia-activity-7259868161712287745-3Rst?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "SOPAL",
+        "deadline": "20 December 2024",
+        "Tags": "Technical development, IT, Supply Chain Management, Continuous Improvement, Product Quality and Metrology, SMI",
+        "thumbnail_url": "/assets/images/SOPAL.jpg",
+        "pdf_url":  "./assets/pdfs/SOPAL.pdf",
+        "linked_url": "https://www.linkedin.com/posts/sopal_pfe-book-sopal-2024-2025-activity-7259892917689864194-l9T5?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "InstaDeep",
+        "deadline": "",
+        "Tags": " AI, Software Engineering, MLOps, QA",
+        "thumbnail_url": "/assets/images/InstaDeep.jpg",
+        "pdf_url":  "",
+        "linked_url": "https://www.linkedin.com/posts/instadeep_instadeep-internship-careeropportunities-activity-7255121469691596800-rPdI?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Finlogik Offshore Solutions",
+        "deadline": "30 November 2024",
+        "Tags": "Web Development, AI, Power BI, QA, Cybersecurity, DevOps ",
+        "thumbnail_url": "/assets/images/Finlogik.jpg",
+        "pdf_url":  "./assets/pdfs/Finlogik.pdf",
+        "linked_url": "https://www.linkedin.com/posts/finlogikoffshoresolutions_finlogik-pfe-book-2025-activity-7260255878723870720-ovcg?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Freedom of Dev",
+        "deadline": "",
+        "Tags": "Web Development, AI, DevOps, Cloud, ",
+        "thumbnail_url": "/assets/images/FOD.jpg",
+        "pdf_url":  "./assets/pdfs/FOD.pdf",
+        "linked_url": "https://www.linkedin.com/posts/freedom-of-dev_fod-pfe-book-2024-2025-activity-7259851711190605824-aYUq?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "EY",
+        "deadline": "24 November 2024",
+        "Tags": "accounting, Big Data, AI, Risk Management, IT, Cybersecurity, Management, Consulting, Industrial, Finance, HR, Web development, Design, Statistics, Network, cloud",
+        "thumbnail_url": "/assets/images/EY.jpg",
+        "pdf_url":  "./assets/pdfs/EY.pdf",
+        "linked_url": "https://www.linkedin.com/posts/hamza-khamassi_pfe-book-activity-7259931435342462976--5Q9?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "IT Gate",
+        "deadline": "10 December 2024",
+        "Tags": "",
+        "thumbnail_url": "/assets/images/ITGate.jpg",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/itgate-group_stage2025-pfe-itgate-activity-7259896434324295682-rhdh?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Dar Blockchain",
+        "deadline": "30 November 2024",
+        "Tags": "Python, AI, ML, Web Development, BI, Blockchain, Design",
+        "thumbnail_url": "/assets/images/DarBlockchain.jpg",
+        "pdf_url": "./assets/pdfs/DarBlockchain.pdf",
+        "linked_url": "https://www.linkedin.com/posts/dar-blockchain_pfe-book-tech-2025-activity-7259921019019137024-Kx_-?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "NiceTek",
+        "deadline": "",
+        "Tags": "Digital Marketing ,Web Development, graphic design, Sales, ux/ui Design, Mobile Developement, Managment, Data science",
+        "thumbnail_url": "/assets/images/NiceTek.jpg",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/benj-sami_formation-stage-pfe-activity-7259632859915669504-xUa4?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "KPMG Tunisia",
+        "deadline": "",
+        "Tags": "Audit, Fiscalité, Controle de Gestion, Marketing",
+        "thumbnail_url": "/assets/images/KMPGTunisia.jpg",
+        "pdf_url": "./assets/pdfs/KMPGTunisia.pdf",
+        "linked_url": "https://www.linkedin.com/posts/kpmg-tunisia_kpmg-pfe-book-2024-2025-activity-7259619248342253570-N4oo?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Value",
+        "deadline": "",
+        "Tags": "Web Development, Mobile Development, AI, DevOps, QA, Automation, Marketing, Sales, Business Development, Digital Marketing, Graphic Design, Management",
+        "thumbnail_url": "/assets/images/Value.jpg",
+        "pdf_url": "./assets/pdfs/Value.pdf",
+        "linked_url": "https://www.linkedin.com/posts/value-tunisie_catalogue-pfe-2024-2025-activity-7259191338087174145-ZgMd?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "celestial Wave Digital",
+        "deadline": "",
+        "Tags": "Web Development, Mobile Development",
+        "thumbnail_url": "/assets/images/CWD.jpg",
+        "pdf_url": "./assets/pdfs/CWD.pdf",
+        "linked_url": "https://www.linkedin.com/posts/celestial-wave-digital_pfe-book-2025-activity-7259256705824305152-IY6w?utm_source=share&utm_medium=member_desktop"
+    },
+
+];
 
 
 

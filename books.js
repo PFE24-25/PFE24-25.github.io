@@ -25,7 +25,8 @@ function createCard(book) {
                                 </a>
                             </div>
                         </div>`;
-    document.getElementById('book-container').appendChild(card);
+    document.getElementById('book-container').prepend(card);
+    // appendChild(card);
 };
 
 for (const book of books) {
