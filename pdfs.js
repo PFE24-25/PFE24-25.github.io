@@ -477,6 +477,14 @@ books = [
         "thumbnail_url": "/assets/images/1731427327615_BakoMotors.png",
         "pdf_url": "/assets/pdfs/1731427327615_BakoMotors.pdf",
         "linked_url": "https://www.linkedin.com/posts/bakomotors_pfe-book-activity-7261670498088947712-MJq_?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Topnet",
+        "deadline": "",
+        "Tags": "IT, AI, Web Development, Network, Media, Digital Marketing, Analytics",
+        "thumbnail_url": "/assets/images/1731428307775_Topnet.png",
+        "pdf_url": "/assets/pdfs/1731428307775_Topnet.pdf",
+        "linked_url": "https://www.linkedin.com/posts/topnet-tunisie_pfe-book-activity-7260673394470191107-NH1L?utm_source=share&utm_medium=member_desktop"
     },];
 
 
