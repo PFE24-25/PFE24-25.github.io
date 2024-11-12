@@ -493,6 +493,14 @@ books = [
         "thumbnail_url": "/assets/images/1731429332510_Amecap.png",
         "pdf_url": "/assets/pdfs/1731429332510_Amecap.pdf",
         "linked_url": "https://www.linkedin.com/posts/invention-learning_pfe-book-activity-7260374840237326337-UjCX?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Actia",
+        "deadline": "",
+        "Tags": "Embedded Systems, IT, Test & Automation, ",
+        "thumbnail_url": "/assets/images/1731429919991_Actia.png",
+        "pdf_url": "/assets/pdfs/1731429919991_Actia.pdf",
+        "linked_url": "https://www.linkedin.com/posts/actia-engineering-services_actia-escatalogue-pfe-2024-2025-activity-7261757882004606976-HcmE?utm_source=share&utm_medium=member_desktop"
     },];
 
 
