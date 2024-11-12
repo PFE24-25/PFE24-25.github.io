@@ -436,7 +436,15 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/celestial-wave-digital_pfe-book-2025-activity-7259256705824305152-IY6w?utm_source=share&utm_medium=member_desktop"
     },
 
-];
+
+    {
+        "company": "Telnet",
+        "deadline": "",
+        "Tags": "Telecom, IT, Mechatrobnics, Electronics, Media & EnergySpace, Quality",
+        "thumbnail_url": "/assets/images/1731418721096_Telnet.png",
+        "pdf_url": "/assets/pdfs/1731418721096_Telnet.pdf",
+        "linked_url": "https://www.linkedin.com/posts/telnet_2_unleash-the-future-of-technology-with-telnet-activity-7262081200876359680-IhEM?utm_source=share&utm_medium=member_desktop"
+    },];
 
 
 
