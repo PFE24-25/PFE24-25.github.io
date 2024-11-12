@@ -444,6 +444,14 @@ books = [
         "thumbnail_url": "/assets/images/1731418721096_Telnet.png",
         "pdf_url": "/assets/pdfs/1731418721096_Telnet.pdf",
         "linked_url": "https://www.linkedin.com/posts/telnet_2_unleash-the-future-of-technology-with-telnet-activity-7262081200876359680-IhEM?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "ALDER Green Solutions",
+        "deadline": "",
+        "Tags": "Web Development, Data Science, Agronomy, Environmental Science, UI/UX Design, Digital Marketing, Businss Development",
+        "thumbnail_url": "/assets/images/1731420806666_ALDERGreenSolutions.png",
+        "pdf_url": "/assets/pdfs/1731420806666_ALDERGreenSolutions.pdf",
+        "linked_url": "https://www.linkedin.com/posts/alder-green-solutions_pfe-book-activity-7262039625987211266-KLjL?utm_source=share&utm_medium=member_desktop"
     },];
 
 
