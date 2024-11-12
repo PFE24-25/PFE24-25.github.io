@@ -460,6 +460,14 @@ books = [
         "thumbnail_url": "/assets/images/1731423896784_SIAF.png",
         "pdf_url": "/assets/pdfs/1731423896784_SIAF.pdf",
         "linked_url": "https://www.linkedin.com/posts/soci%C3%A9t%C3%A9-des-ing%C3%A9nieurs-pour-les-affaires-siaf_pfe-book-2025-activity-7261745508694556672-pU7h?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": " SIAF",
+        "deadline": "",
+        "Tags": "IT, AI, Mobile Development, SolidWorks",
+        "thumbnail_url": "/assets/images/1731423915448_SIAF.png",
+        "pdf_url": "/assets/pdfs/1731423915448_SIAF.pdf",
+        "linked_url": "https://www.linkedin.com/posts/soci%C3%A9t%C3%A9-des-ing%C3%A9nieurs-pour-les-affaires-siaf_pfe-book-2025-activity-7261745508694556672-pU7h?utm_source=share&utm_medium=member_desktop"
     },];
 
 
