@@ -485,6 +485,14 @@ books = [
         "thumbnail_url": "/assets/images/1731428307775_Topnet.png",
         "pdf_url": "/assets/pdfs/1731428307775_Topnet.pdf",
         "linked_url": "https://www.linkedin.com/posts/topnet-tunisie_pfe-book-activity-7260673394470191107-NH1L?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Amecap",
+        "deadline": "20 December 2024",
+        "Tags": "SolidWorks, ARENA, Mechanics, Continuous Improvement, Product Quality, ERP, Supply Chain Management, IT, ",
+        "thumbnail_url": "/assets/images/1731429332510_Amecap.png",
+        "pdf_url": "/assets/pdfs/1731429332510_Amecap.pdf",
+        "linked_url": "https://www.linkedin.com/posts/invention-learning_pfe-book-activity-7260374840237326337-UjCX?utm_source=share&utm_medium=member_desktop"
     },];
 
 
