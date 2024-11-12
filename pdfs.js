@@ -468,6 +468,14 @@ books = [
         "thumbnail_url": "/assets/images/1731423915448_SIAF.png",
         "pdf_url": "/assets/pdfs/1731423915448_SIAF.pdf",
         "linked_url": "https://www.linkedin.com/posts/soci%C3%A9t%C3%A9-des-ing%C3%A9nieurs-pour-les-affaires-siaf_pfe-book-2025-activity-7261745508694556672-pU7h?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Capgemini",
+        "deadline": "15 December 2024",
+        "Tags": "AI, Data Analysis, Web Development, Embedded Systems, DevOps, ",
+        "thumbnail_url": "/assets/images/1731426263829_Capgemini.png",
+        "pdf_url": "/assets/pdfs/1731426263829_Capgemini.pdf",
+        "linked_url": "https://www.linkedin.com/posts/fatma-aloui-9321761b7_pfe-book-2024-2025-activity-7261821107891011584-9f25?utm_source=share&utm_medium=member_desktop"
     },];
 
 
