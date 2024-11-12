@@ -469,6 +469,14 @@ books = [
         "thumbnail_url": "/assets/images/1731426263829_Capgemini.png",
         "pdf_url": "/assets/pdfs/1731426263829_Capgemini.pdf",
         "linked_url": "https://www.linkedin.com/posts/fatma-aloui-9321761b7_pfe-book-2024-2025-activity-7261821107891011584-9f25?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Bako Motors",
+        "deadline": "",
+        "Tags": "Product design, Mechanical engineering, Electrical engineering, Industrial Engineering, Industrial-Quality Engineering, Sales, UX design, AI, Finance, Administration",
+        "thumbnail_url": "/assets/images/1731427327615_BakoMotors.png",
+        "pdf_url": "/assets/pdfs/1731427327615_BakoMotors.pdf",
+        "linked_url": "https://www.linkedin.com/posts/bakomotors_pfe-book-activity-7261670498088947712-MJq_?utm_source=share&utm_medium=member_desktop"
     },];
 
 
