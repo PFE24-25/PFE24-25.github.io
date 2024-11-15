@@ -372,7 +372,7 @@ books = [
     },
     {
         "company": "Freedom of Dev",
-        "deadline": "",
+        "deadline": "18 November 2024",
         "Tags": "Web Development, AI, DevOps, Cloud, ",
         "thumbnail_url": "/assets/images/FOD.jpg",
         "pdf_url":  "./assets/pdfs/FOD.pdf",
