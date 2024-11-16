@@ -599,5 +599,21 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/yaya-traore_catalogue-pentabell-activity-7262727180843978753-rNVP?utm_source=share&utm_medium=member_desktop"
     },
 
+    {
+        "company": "Orange Tunisie",
+        "deadline": "05 December 2024",
+        "Tags": "IT, Network, Marketing, ",
+        "thumbnail_url": "/assets/images/Orange.jpg",
+        "pdf_url": "/assets/pdfs/Orange.pdf",
+        "linked_url": "https://www.linkedin.com/posts/orange-tunisie_pfe-book-orange-tunisie-2025-activity-7263136615819071489-eCdq?utm_source=share&utm_medium=member_desktop"
+    },
 
+    {
+        "company": "Anypli",
+        "deadline": "05 December 2024",
+        "Tags": "IT, Network, Marketing, ",
+        "thumbnail_url": "/assets/images/Orange.jpg",
+        "pdf_url": "/assets/pdfs/Orange.pdf",
+        "linked_url": "https://www.linkedin.com/posts/orange-tunisie_pfe-book-orange-tunisie-2025-activity-7263136615819071489-eCdq?utm_source=share&utm_medium=member_desktop"
+    },
 ]
