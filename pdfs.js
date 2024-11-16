@@ -537,15 +537,6 @@ books = [
     },
 
     {
-        "company": "CED",
-        "deadline": "",
-        "Tags": "Web Development, DevOps, Security, BUsiness Intelligence, Quality Insurance, ",
-        "thumbnail_url": "/assets/images/CED.jpg",
-        "pdf_url": "/assets/pdfs/CED.pdf",
-        "linked_url": "https://www.linkedin.com/posts/mouna-ghribi-960911178_ced-tunisia-pfe-book-activity-7262452535444074496--PcK?utm_source=share&utm_medium=member_desktop"
-    },
-
-    {
         "company": "Softifi",
         "deadline": "",
         "Tags": "Power BI, Python, Odoo, DevOps",
