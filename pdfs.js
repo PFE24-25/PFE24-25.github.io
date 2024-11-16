@@ -501,8 +501,61 @@ books = [
         "thumbnail_url": "/assets/images/1731429919991_Actia.png",
         "pdf_url": "/assets/pdfs/1731429919991_Actia.pdf",
         "linked_url": "https://www.linkedin.com/posts/actia-engineering-services_actia-escatalogue-pfe-2024-2025-activity-7261757882004606976-HcmE?utm_source=share&utm_medium=member_desktop"
-    },];
+    },
+
+    {
+        "company": "GTI",
+        "deadline": "20 December 2024",
+        "Tags": "Power BI, Web Development, AI, Image Processing",
+        "thumbnail_url": "/assets/images/GTI.jpg",
+        "pdf_url": "/assets/pdfs/GTI.pdf",
+        "linked_url": "https://www.linkedin.com/posts/gti-financialsoftware_pfe-book-gti-activity-7262390027303669760-0TB9?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "Piva Software",
+        "deadline": "30November 2024",
+        "Tags": "AI, Python, Web Scraping, Network, C, FreeRTOS, Linux, Web Development, ",
+        "thumbnail_url": "/assets/images/Piva.jpg",
+        "pdf_url": "/assets/pdfs/Piva.pdf",
+        "linked_url": "https://www.linkedin.com/posts/pivasoftware_pivas-pfe-book-2024-activity-7262462760712593408-iim-?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "NeoXam",
+        "deadline": "",
+        "Tags": "Web Development, Docker, AI, DevOps",
+        "thumbnail_url": "/assets/images/NeoXam.jpg",
+        "pdf_url": "/assets/pdfs/NeoXam.pdf",
+        "linked_url": "https://www.linkedin.com/posts/neoxam-tunisie_neoxam-tunisie-pfe-book-2025-activity-7262390650317197312-HHHm?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "CED",
+        "deadline": "",
+        "Tags": "Web Development, DevOps, Security, BUsiness Intelligence, Quality Insurance, ",
+        "thumbnail_url": "/assets/images/CED.jpg",
+        "pdf_url": "/assets/pdfs/CED.pdf",
+        "linked_url": "https://www.linkedin.com/posts/mouna-ghribi-960911178_ced-tunisia-pfe-book-activity-7262452535444074496--PcK?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "CED",
+        "deadline": "",
+        "Tags": "Web Development, DevOps, Security, BUsiness Intelligence, Quality Insurance, ",
+        "thumbnail_url": "/assets/images/CED.jpg",
+        "pdf_url": "/assets/pdfs/CED.pdf",
+        "linked_url": "https://www.linkedin.com/posts/mouna-ghribi-960911178_ced-tunisia-pfe-book-activity-7262452535444074496--PcK?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Softifi",
+        "deadline": "",
+        "Tags": "Power BI, Python, Odoo, DevOps",
+        "thumbnail_url": "/assets/images/Softifi.jpg",
+        "pdf_url": "/assets/pdfs/Softifi.pdf",
+        "linked_url": "https://www.linkedin.com/posts/softifi_pfebook2025-activity-7262433418003566592-CX2x?utm_source=share&utm_medium=member_desktop"
+    },
 
 
 
 
+
+]
