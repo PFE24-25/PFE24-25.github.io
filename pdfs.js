@@ -554,8 +554,50 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/softifi_pfebook2025-activity-7262433418003566592-CX2x?utm_source=share&utm_medium=member_desktop"
     },
 
+    {
+        "company": "Dar Blockchain Business",
+        "deadline": "30 November 2024",
+        "Tags": "Marketing Digital, Commerce, Communication",
+        "thumbnail_url": "/assets/images/DarBlockchain.jpg",
+        "pdf_url": "/assets/pdfs/DarBlockchainBusiness.pdf",
+        "linked_url": "https://www.linkedin.com/posts/dar-blockchain_pfe-book-business-activity-7262109194412032000-Ziuq?utm_source=share&utm_medium=member_desktop"
+    },
 
+    {
+        "company": "Ordering Dashboard Solution",
+        "deadline": "31 Decembre 2024",
+        "Tags": "Web Development, Data Science, Graphic Design, Digital Marketing, Communication",
+        "thumbnail_url": "/assets/images/ODS.jpg",
+        "pdf_url": "/assets/pdfs/ODS.pdf",
+        "linked_url": "https://www.linkedin.com/posts/invention-learning_pfebookpdf-activity-7262459198276313088-a2IT?utm_source=share&utm_medium=member_desktop"
+    },
 
+    {
+        "company": "Astrolab",
+        "deadline": "",
+        "Tags": "Web development, AI, Devops, Cloud, Digital Marketing, Design, QA",
+        "thumbnail_url": "/assets/images/Astrolab.jpg",
+        "pdf_url": "/assets/pdfs/Astrolab.pdf",
+        "linked_url": "https://www.linkedin.com/posts/assidiwassim_pfe-book-activity-7262181431034974212-UcB8?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "STMicroelectronics",
+        "deadline": "",
+        "Tags": "Embedded Systems, Python, UI, C, C++, Web Development, AI, Generative AI, LLM, Devops, Electronics",
+        "thumbnail_url": "/assets/images/STMicroelectronics.jpg",
+        "pdf_url": "/assets/pdfs/STMicroelectronics.pdf",
+        "linked_url": "https://www.linkedin.com/posts/hamdi-rebhi-a7131a169_st-pfe-book-2025-activity-7263547224356233216-NfL-?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Pentabell",
+        "deadline": "",
+        "Tags": "Web Development, Marketing,Sales, HR, QHSE, FINANCE",
+        "thumbnail_url": "/assets/images/Pentabell.jpg",
+        "pdf_url": "/assets/pdfs/Pentabell.pdf",
+        "linked_url": "https://www.linkedin.com/posts/yaya-traore_catalogue-pentabell-activity-7262727180843978753-rNVP?utm_source=share&utm_medium=member_desktop"
+    },
 
 
 ]
