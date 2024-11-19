@@ -598,5 +598,77 @@ books = [
         "pdf_url": "/assets/pdfs/Orange.pdf",
         "linked_url": "https://www.linkedin.com/posts/orange-tunisie_pfe-book-orange-tunisie-2025-activity-7263136615819071489-eCdq?utm_source=share&utm_medium=member_desktop"
     },
+    {
+        "company": "One Tech Business Solutions",
+        "deadline": "",
+        "Tags": "VoIP, Network, IT, Web development, AI, ML, LLM, OCR, Cisco, cybersecurity, Cloud, Devops",
+        "thumbnail_url": "/assets/images/OneTech.jpg",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/onetech-b-s_pfebook-internship-carreeropportunities-activity-7262452659654184960-hac8?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Olindias",
+        "deadline": "",
+        "Tags": "Web Development, AI, Mobile Development, NLP, Data Science, Digital Marketing, Graphic Design, UI/UX, React, Angular, Node.js",
+        "thumbnail_url": "/assets/images/Olindias.jpg",
+        "pdf_url": "/assets/pdfs/Olindias.pdf",
+        "linked_url": "https://www.linkedin.com/posts/olindias_pfe-book-2025-olindias-activity-7262826619436756992-z5aA?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Proxym Group",
+        "deadline": "",
+        "Tags": "IT, AI, Spring, AI, Angular, Cloud, Devops, Docker",
+        "thumbnail_url": "/assets/images/Proxym.jpg",
+        "pdf_url": "/assets/pdfs/Proxym.pdf",
+        "linked_url": "https://www.linkedin.com/posts/proxym_proxym-pfe-book-2025-activity-7262866064059846659-aJ2W?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Looyas",
+        "deadline": "",
+        "Tags": "AIOps, AI, Cloud, Devops, Test Automation, cybersecurity, python, java, NLP, Power BI, webdevelopment, MLOps",
+        "thumbnail_url": "/assets/images/Looyas.jpg",
+        "pdf_url": "/assets/pdfs/Looyas.pdf",
+        "linked_url": "https://www.linkedin.com/posts/looyas_looyas-pfe-book-2024-2025-activity-7263234114164543488-QOqm?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Tunisian American Enterprise Fund",
+        "deadline": "",
+        "Tags": "",
+        "thumbnail_url": "/assets/images/TAEF.jpg",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/tunisian-american-enterprise-fund_are-you-on-the-lookout-for-a-final-year-internship-activity-7263179427914653696-7kFF?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "company": "LineData",
+        "deadline": "",
+        "Tags": "Web Development, Mobile Development, AI, NLP, ML, Python, .NET, BI, DevOps, LLM",
+        "thumbnail_url": "/assets/images/LineData.jpg",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/khaoula-gharbi-_pfe-innovationettalent-wehumanizetechnology-activity-7263176725683953666-r1W-?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Medicacom",
+        "deadline": "",
+        "Tags": "Marketing, Communication, UI/UX Design, Web Development, LLM, Power BI",
+        "thumbnail_url": "/assets/images/Medicacom.jpg",
+        "pdf_url": "/assets/pdfs/Medicacom.pdf",
+        "linked_url": "https://www.linkedin.com/posts/mohamed-majdi-karray-aa191a1b2_pfe-book-2024-de-medicacom-activity-7262818829683056640-oGC-?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Anypli",
+        "deadline": "",
+        "Tags": "Web Development, Mobile Development, Devops",
+        "thumbnail_url": "/assets/images/Anypli.jpg",
+        "pdf_url": "/assets/pdfs/Anypli.pdf",
+        "linked_url": "https://www.linkedin.com/posts/anypli_pfe-book-2025-activity-7263237747333627904-0j2i?utm_source=share&utm_medium=member_desktop"
+    },
+
+
 ]
 
