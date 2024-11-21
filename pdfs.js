@@ -663,10 +663,19 @@ books = [
     {
         "company": "Anypli",
         "deadline": "",
-        "Tags": "Web Development, Mobile Development, Devops",
+        "Tags": "Web Development, Mobile Development, Devops, AI",
         "thumbnail_url": "/assets/images/Anypli.jpg",
         "pdf_url": "/assets/pdfs/Anypli.pdf",
         "linked_url": "https://www.linkedin.com/posts/anypli_pfe-book-2025-activity-7263237747333627904-0j2i?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "CA- Club Africain",
+        "deadline": "",
+        "Tags": "Digital Marketing, Textiles, Grapghic Design, Business Analysis, Data Analysis, BI, Web Development, AI",
+        "thumbnail_url": "/assets/images/CA.jpg",
+        "pdf_url": "/assets/pdfs/CA.pdf",
+        "linked_url": "https://www.linkedin.com/posts/clubafricain-officiel_lefri9i-pfe-book-activity-7264668399958433792-KZKA?utm_source=share&utm_medium=member_desktop"
     },
 
 
