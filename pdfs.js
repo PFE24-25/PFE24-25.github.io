@@ -762,7 +762,7 @@ books = [
     {
         "company": "Bellamine Industries & MoDiTeC",
         "deadline": " 30 November 2024",
-        "Tags": " ",
+        "Tags": " mechanical design",
         "thumbnail_url": "/assets/images/bellamine.jpg",
         "pdf_url": "/assets/pdfs/bellamine.pdf",
         "linked_url": "https://www.linkedin.com/posts/phd-eng-bellamine-moez-bellamine-industries-89175763_pfe-book-2024-2025-bellamine-industries-activity-7263637052934529024-4OE9?utm_source=share&utm_medium=member_desktop"
