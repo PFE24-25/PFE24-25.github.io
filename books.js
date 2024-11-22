@@ -11,7 +11,7 @@ function createCard(book) {
                             </a>
                         </div>
                         <div class="offer-info">
-                            <div>
+                            <div class="offer-info-container">
                                 <p class="company-name ${(book.company == "") ? "hidden" : ""}"><b>${book.company}</b></p>
                                 <p class="tags ${(book.Tags == "") ? "hidden" : ""}"> <b>Tags:</b>${book.Tags}</p>
                                 <p class="deadline ${(book.deadline == "") ? "hidden" : ""}"><b>Deadline :</b>${book.deadline}</p>

@@ -636,7 +636,7 @@ books = [
 
     {
         "company": "Tunisian American Enterprise Fund",
-        "deadline": "",
+        "deadline": " 10 January 2025",
         "Tags": "",
         "thumbnail_url": "/assets/images/TAEF.jpg",
         "pdf_url": "",
@@ -672,12 +672,100 @@ books = [
     {
         "company": "CA- Club Africain",
         "deadline": "",
-        "Tags": "Digital Marketing, Textiles, Grapghic Design, Business Analysis, Data Analysis, BI, Web Development, AI",
+        "Tags": " Digital Marketing, Textiles, Grapghic Design, Business Analysis, Data Analysis, BI, Web Development, AI",
         "thumbnail_url": "/assets/images/CA.jpg",
         "pdf_url": "/assets/pdfs/CA.pdf",
         "linked_url": "https://www.linkedin.com/posts/clubafricain-officiel_lefri9i-pfe-book-activity-7264668399958433792-KZKA?utm_source=share&utm_medium=member_desktop"
     },
 
+    {
+        "company": "Infotech Consulting Services (ICS)",
+        "deadline": "",
+        "Tags": " Python, Odoo, Web Development",
+        "thumbnail_url": "/assets/images/ICS.jpg",
+        "pdf_url": "/assets/pdfs/ICS.pdf",
+        "linked_url": "https://www.linkedin.com/posts/infotech-consulting-services_pfe-book-2025-activity-7264561084953481218-6D2L?utm_source=share&utm_medium=member_desktop"
+    },
 
+    {
+        "company": "Pursuit Aerospace",
+        "deadline": "",
+        "Tags": " Materials, Mechanics & Production, Mechatronics, Industrials, IT, Chemicals and Chemicals Processes, Ergonimics ",
+        "thumbnail_url": "/assets/images/PursuitAerospace.jpg",
+        "pdf_url": "/assets/pdfs/PursuitAerospace.pdf",
+        "linked_url": "https://www.linkedin.com/posts/infotech-consulting-services_pfe-book-2025-activity-7264561084953481218-6D2L?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Juridia",
+        "deadline": "",
+        "Tags": " IT, AI",
+        "thumbnail_url": "/assets/images/Juridia.jpg",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/omar-el-adlouni_pfe-activity-7264700093793021953-OAqm?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Aiventu",
+        "deadline": "",
+        "Tags": " Cybersecurity, AI, GPT, GED, BI, ERP, Automatisation, DevOps, Microsoft",
+        "thumbnail_url": "/assets/images/aiventu.jpg",
+        "pdf_url": "/assets/pdfs/aiventu.pdf",
+        "linked_url": "https://www.linkedin.com/posts/yaya-traore_pfe-activity-7264241969424453632-xsoj?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Unilog",
+        "deadline": "",
+        "Tags": " ERP Consulting, Quality Management Systems, AI, Data Analytics / Business Intelligence, IT, UI/UX Design",
+        "thumbnail_url": "/assets/images/Unilog.jpg",
+        "pdf_url": "/assets/pdfs/Unilog.pdf",
+        "linked_url": "https://www.linkedin.com/posts/unilog-tn_pfe-book-20242025-unilog-activity-7264547988293709825-35vZ?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "OUIMIND",
+        "deadline": "",
+        "Tags": " Web Development, DevSecOps, Mobile Development, Chatbot, AI",
+        "thumbnail_url": "/assets/images/ouimind.jpg",
+        "pdf_url": "/assets/pdfs/ouimind.pdf",
+        "linked_url": "https://www.linkedin.com/posts/ouimind_ouimind-pfe-book-20242025-activity-7264660232281227268-a4-g?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "WICMIC IT",
+        "deadline": "",
+        "Tags": " AI, Predictive Analysis, NLP",
+        "thumbnail_url": "/assets/images/wicmic.jpg",
+        "pdf_url": "/assets/pdfs/wicmic.pdf",
+        "linked_url": "https://www.linkedin.com/posts/invention-learning_pfe-book-activity-7264556296748576768-pX3i?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Mare Custos I",
+        "deadline": "",
+        "Tags": " Mechanics, Electromechanics, Mechatronics, Linux, NDT",
+        "thumbnail_url": "/assets/images/marecustos.jpg",
+        "pdf_url": "/assets/pdfs/marecustos1.pdf",
+        "linked_url": "https://www.linkedin.com/posts/marecustos_mare-custos-pfe-book-2024-activity-7262026494669983744-5oTj?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Mare Custos II",
+        "deadline": "",
+        "Tags": " IT, Functional Safety, Hardware Aechitecture & Design",
+        "thumbnail_url": "/assets/images/marecustos.jpg",
+        "pdf_url": "/assets/pdfs/marecustos2.pdf",
+        "linked_url": "https://www.linkedin.com/posts/marecustos_pfe-book-2025-v2-mare-custos-activity-7265720502264975360-rP5Z?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Bellamine Industries & MoDiTeC",
+        "deadline": " 30 November 2024",
+        "Tags": " ",
+        "thumbnail_url": "/assets/images/bellamine.jpg",
+        "pdf_url": "/assets/pdfs/bellamine.pdf",
+        "linked_url": "https://www.linkedin.com/posts/phd-eng-bellamine-moez-bellamine-industries-89175763_pfe-book-2024-2025-bellamine-industries-activity-7263637052934529024-4OE9?utm_source=share&utm_medium=member_desktop"
+    },
 ]
 

@@ -199,6 +199,9 @@ p.tags{
     padding: 10px;
 }
 
+.offer-info-container{
+    width: 85%;
+}
 .hidden
 {
     display: none;
