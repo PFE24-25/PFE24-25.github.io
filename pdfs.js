@@ -225,10 +225,10 @@ books = [
 {
     "company": "Keyrus",
     "deadline": "",
-    "Tags": "IT, BI, Data Science, Web Development",
+    "Tags": "Data, Data Analysis Digital, BI, AI, LLM, ML, MLOps, DevOps, DevSecOps",
     "thumbnail_url": "/assets/images/Keyrus.jpg",
-    "pdf_url": "",
-    "linked_url": "https://www.linkedin.com/posts/sabrine-arfaoui-21167aa4_pfe-keyrus-2025-keyrus-mea-activity-7254498738310680580-4WkD?utm_source=share&utm_medium=member_desktop"
+    "pdf_url": "/assets/images/Keyrus.jpg",
+    "linked_url": "https://www.linkedin.com/posts/keyrus_keyrus-pfe-book-activity-7267462277442781185-jtjN?utm_source=share&utm_medium=member_desktop"
 },
 {
     "company": "Groupe SII",
@@ -766,6 +766,24 @@ books = [
         "thumbnail_url": "/assets/images/bellamine.jpg",
         "pdf_url": "/assets/pdfs/bellamine.pdf",
         "linked_url": "https://www.linkedin.com/posts/phd-eng-bellamine-moez-bellamine-industries-89175763_pfe-book-2024-2025-bellamine-industries-activity-7263637052934529024-4OE9?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "PwC Tunisia",
+        "deadline": "",
+        "Tags": " Assurance, Advisory, IT, Tax & Legal Services",
+        "thumbnail_url": "/assets/images/PwC.jpg",
+        "pdf_url": "/assets/pdfs/PwC.pdf",
+        "linked_url": "https://www.linkedin.com/posts/pwc-tunisia_pwc-en-tunisie-pfe-book-2025pdf-activity-7266876957399678976-JQFJ?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "TunUp_A Cimpress Company",
+        "deadline": "",
+        "Tags": " Gen AI, LLMs, Web Development",
+        "thumbnail_url": "/assets/images/Tunup.jpg",
+        "pdf_url": "/assets/pdfs/Tunup.pdf",
+        "linked_url": "https://www.linkedin.com/posts/tunup_tunup-pfe-book-2024-it-project-topics-catalogue-activity-7267458528976515072-KOjX?utm_source=share&utm_medium=member_desktop"
     },
 ]
 
