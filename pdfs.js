@@ -844,7 +844,7 @@ books = [
         "company": "DRÄXLMAIER Sousse/Monastir",
         "deadline": "",
         "Tags": " IT, BI, Web/Mobile Development, Data Science, CyberSecurity, Network, Embedded, Marketing, Graphic design, Industrials, Mechanics, Energy",
-        "thumbnail_url": "/assets/images/DRÄXLMAIER.jpg",
+        "thumbnail_url": "/assets/images/DRÄXLMAIERsm.jpg",
         "pdf_url": "/assets/pdfs/DRÄXLMAIERsm.pdf",
         "linked_url": "https://www.linkedin.com/posts/jiheneb_dr%C3%A4xlmaier-tunisiasousse-hubpfe-book-2023-activity-7135940051321942016-87YZ?utm_source=share&utm_medium=member_desktop"
     },
