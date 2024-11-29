@@ -389,11 +389,11 @@ books = [
     },
     {
         "company": "IT Gate",
-        "deadline": "10 December 2024",
-        "Tags": "",
+        "deadline": "15 December 2024",
+        "Tags": " DevOps, AI, Web Development, SyberSecurity, Mobile Development, Embedded Systems",
         "thumbnail_url": "/assets/images/ITGate.jpg",
-        "pdf_url": "",
-        "linked_url": "https://www.linkedin.com/posts/itgate-group_stage2025-pfe-itgate-activity-7259896434324295682-rhdh?utm_source=share&utm_medium=member_desktop"
+        "pdf_url": "/assets/pdfs/ITGate.pdf",
+        "linked_url": "https://www.linkedin.com/posts/ankoudhoussem_catalogue-pfe-itgate-2025pdf-activity-7267247383262973954-aJ_W?utm_source=share&utm_medium=member_desktop"
     },
     {
         "company": "Dar Blockchain",
@@ -784,6 +784,69 @@ books = [
         "thumbnail_url": "/assets/images/Tunup.jpg",
         "pdf_url": "/assets/pdfs/Tunup.pdf",
         "linked_url": "https://www.linkedin.com/posts/tunup_tunup-pfe-book-2024-it-project-topics-catalogue-activity-7267458528976515072-KOjX?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "3S Standard Sharing Software",
+        "deadline": "",
+        "Tags": " Network, AI, Cloud IAAS, SDN, Cybersecurity, DevOps, Mobile Development",
+        "thumbnail_url": "/assets/images/3S.jpg",
+        "pdf_url": "/assets/pdfs/3S.pdf",
+        "linked_url": "https://www.linkedin.com/posts/3s-tn_3s-pfe-book-activity-7267851523542405120-to8Y?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "INVOLYS ",
+        "deadline": "",
+        "Tags": " Web Development, BI, Data Science, Consultancy",
+        "thumbnail_url": "/assets/images/INVOLYS.jpg",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/involys_stages-pfe-activity-7267467829740724224-0D_S?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Valeo ",
+        "deadline": " 02 December 2024",
+        "Tags": " IT, Embedded Systems, Production, Industrials, Mechanics, Electrics, Ergonomics, Logistics, Energy, Finance, Psychology",
+        "thumbnail_url": "/assets/images/Valeo.jpg",
+        "pdf_url": "/assets/pdfs/Valeo.pdf",
+        "linked_url": "https://www.linkedin.com/posts/cyrine-kharrat-49487b164_pfe-book-2025-activity-7267605140298178560-dqvt?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Hadooc ",
+        "deadline": "",
+        "Tags": " Odoo, AI, Python, Mobile Development, Web Development",
+        "thumbnail_url": "/assets/images/Hadooc.jpg",
+        "pdf_url": "/assets/pdfs/Hadooc.pdf",
+        "linked_url": "https://www.linkedin.com/posts/hadooc_hadooc-pfe-book-2025-activity-7267097720564170752-b0Mq?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "ST2i",
+        "deadline": "",
+        "Tags": " Web Development, DevOps, AI, BI, Energy",
+        "thumbnail_url": "/assets/images/ST2i.jpg",
+        "pdf_url": "/assets/pdfs/ST2i.pdf",
+        "linked_url": "https://www.linkedin.com/posts/st2i_st2i-pfe-book-2024-2025-activity-7266746839159164929-lJe8?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "DRÄXLMAIER ElJem",
+        "deadline": "",
+        "Tags": " IT, BI, Web Development, Data Analysis, Mechanics, Elechto-Mechanics, Industrials, Digital Marketing",
+        "thumbnail_url": "/assets/images/DRÄXLMAIER.jpg",
+        "pdf_url": "/assets/pdfs/DRÄXLMAIEReljem.pdf",
+        "linked_url": "https://www.linkedin.com/posts/elhem-ghanney-3a742086_dr%C3%A4xlmaier-tunisiasatepfe-book-2023-2024-activity-7138907600041017344-ljA7?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "DRÄXLMAIER Sousse/Monastir",
+        "deadline": "",
+        "Tags": " IT, BI, Web/Mobile Development, Data Science, CyberSecurity, Network, Embedded, Marketing, Graphic design, Industrials, Mechanics, Energy",
+        "thumbnail_url": "/assets/images/DRÄXLMAIER.jpg",
+        "pdf_url": "/assets/pdfs/DRÄXLMAIERsm.pdf",
+        "linked_url": "https://www.linkedin.com/posts/jiheneb_dr%C3%A4xlmaier-tunisiasousse-hubpfe-book-2023-activity-7135940051321942016-87YZ?utm_source=share&utm_medium=member_desktop"
     },
 ]
 
