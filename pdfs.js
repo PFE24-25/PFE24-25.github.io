@@ -984,21 +984,4 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/oorb-open-organic-robotics_oorb-pfe-book-call-for-interns-2025-activity-7265113217968861184-vitB?utm_source=share&utm_medium=member_desktop"
     },
 
-    {
-        "company": "OORB",
-        "deadline": " 18 December 2024",
-        "Tags": " AI, Web Development, Embedded Systems, Data Science, DevOps, Robotics, Mechanics, Business, Graphic Design",
-        "thumbnail_url": "/assets/images/OORB.jpg",
-        "pdf_url": "/assets/pdfs/OORB.pdf",
-        "linked_url": "https://www.linkedin.com/posts/oorb-open-organic-robotics_oorb-pfe-book-call-for-interns-2025-activity-7265113217968861184-vitB?utm_source=share&utm_medium=member_desktop"
-    },
-    
-    {
-        "company": "OORB",
-        "deadline": " 18 December 2024",
-        "Tags": " AI, Web Development, Embedded Systems, Data Science, DevOps, Robotics, Mechanics, Business, Graphic Design",
-        "thumbnail_url": "/assets/images/OORB.jpg",
-        "pdf_url": "/assets/pdfs/OORB.pdf",
-        "linked_url": "https://www.linkedin.com/posts/oorb-open-organic-robotics_oorb-pfe-book-call-for-interns-2025-activity-7265113217968861184-vitB?utm_source=share&utm_medium=member_desktop"
-    },
 ]
