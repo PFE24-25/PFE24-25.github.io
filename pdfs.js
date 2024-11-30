@@ -913,12 +913,12 @@ books = [
     },
 
     {
-        "company": "Olivesoft",
+        "company": "Poulina Group Holding",
         "deadline": "",
-        "Tags": " BI, BI, Data, DevOps",
-        "thumbnail_url": "/assets/images/Olivesoft.jpg",
-        "pdf_url": "/assets/pdfs/Olivesoft.pdf",
-        "linked_url": "https://www.linkedin.com/posts/olivesoft_olivesoft-pfe-book-2025-apply-now-activity-7262496651464818689-D8sG?utm_source=share&utm_medium=member_desktop"
+        "Tags": " IT, Industrial Quality, Production, Industrial Maintenance, Automation, Energy & Cogenerationn Fire Security, BI 4.0",
+        "thumbnail_url": "/assets/images/Poulina.jpg",
+        "pdf_url": "/assets/pdfs/Poulina.pdf",
+        "linked_url": "https://www.linkedin.com/posts/poulina-group-holding_pfe-book-2025-activity-7259859063889403904-cQfw?utm_source=share&utm_medium=member_desktop"
     },
 ]
 
