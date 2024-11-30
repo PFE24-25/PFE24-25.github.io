@@ -112,3 +112,9 @@ function filter(){
 
 }
 
+// return number of books in total
+count = books.length;
+console.log(count);
+document.getElementById('total-books-count').innerHTML = "("+ count + ")";
+
+
