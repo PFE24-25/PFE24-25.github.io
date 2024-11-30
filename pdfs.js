@@ -920,5 +920,85 @@ books = [
         "pdf_url": "/assets/pdfs/Poulina.pdf",
         "linked_url": "https://www.linkedin.com/posts/poulina-group-holding_pfe-book-2025-activity-7259859063889403904-cQfw?utm_source=share&utm_medium=member_desktop"
     },
-]
 
+    {
+        "company": "Consultim IT",
+        "deadline": "",
+        "Tags": " Web Development, Mobile Development, Security, Content Creation",
+        "thumbnail_url": "/assets/images/Consultim.jpg",
+        "pdf_url": "/assets/pdfs/Consultim.pdf",
+        "linked_url": "https://www.linkedin.com/posts/consultim-it_pfe-book-2025-activity-7268308178763722752-1ToW?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "SIRYOS",
+        "deadline": "",
+        "Tags": " SAP, Web Development, BI, Odoo, DevOps",
+        "thumbnail_url": "/assets/images/SIRYOS.jpg",
+        "pdf_url": "/assets/pdfs/SIRYOS.pdf",
+        "linked_url": "https://www.linkedin.com/posts/siryos_pfebook-siryos-2024-2025-activity-7266809685385564161-e2nF?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "SECURAS TECHNOLOGIES",
+        "deadline": "",
+        "Tags": " Web Development, Cybersecurity, AI, Digital Marketing",
+        "thumbnail_url": "/assets/images/Securas.jpg",
+        "pdf_url": "/assets/pdfs/Securas.pdf",
+        "linked_url": "https://www.linkedin.com/posts/securas-sas_pfe-book-2025-activity-7267942207964266496-NpTO?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "IOvision",
+        "deadline": "",
+        "Tags": " AI, DevOps, Web Development",
+        "thumbnail_url": "/assets/images/IOvision.jpg",
+        "pdf_url": "/assets/pdfs/IOvision.pdf",
+        "linked_url": "https://www.linkedin.com/posts/i0vision_pfe-book2025-iovision-activity-7267910380083937280-3Pcw?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Ealan",
+        "deadline": "",
+        "Tags": " Content Creation, Graphic Design, Performance Executive, Strategic Planning, Finance",
+        "thumbnail_url": "/assets/images/Ealan.jpg",
+        "pdf_url": "/assets/pdfs/Ealan.pdf",
+        "linked_url": "https://www.linkedin.com/posts/invention-learning_pfe-book-activity-7268535744292417536-fKND?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Qu²Data",
+        "deadline": "",
+        "Tags": " UI/UX Design, Business, Digital Marketing, Web Development, AI, Data Science",
+        "thumbnail_url": "/assets/images/Qu²Data.jpg",
+        "pdf_url": "/assets/pdfs/Qu²Data.pdf",
+        "linked_url": "https://www.linkedin.com/posts/qu%C2%B2data_catalogue-des-sujets-de-stage-pfe-activity-7260322354302480386-GNrb?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "OORB",
+        "deadline": " 18 December 2024",
+        "Tags": " AI, Web Development, Embedded Systems, Data Science, DevOps, Robotics, Mechanics, Business, Graphic Design",
+        "thumbnail_url": "/assets/images/OORB.jpg",
+        "pdf_url": "/assets/pdfs/OORB.pdf",
+        "linked_url": "https://www.linkedin.com/posts/oorb-open-organic-robotics_oorb-pfe-book-call-for-interns-2025-activity-7265113217968861184-vitB?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "OORB",
+        "deadline": " 18 December 2024",
+        "Tags": " AI, Web Development, Embedded Systems, Data Science, DevOps, Robotics, Mechanics, Business, Graphic Design",
+        "thumbnail_url": "/assets/images/OORB.jpg",
+        "pdf_url": "/assets/pdfs/OORB.pdf",
+        "linked_url": "https://www.linkedin.com/posts/oorb-open-organic-robotics_oorb-pfe-book-call-for-interns-2025-activity-7265113217968861184-vitB?utm_source=share&utm_medium=member_desktop"
+    },
+    
+    {
+        "company": "OORB",
+        "deadline": " 18 December 2024",
+        "Tags": " AI, Web Development, Embedded Systems, Data Science, DevOps, Robotics, Mechanics, Business, Graphic Design",
+        "thumbnail_url": "/assets/images/OORB.jpg",
+        "pdf_url": "/assets/pdfs/OORB.pdf",
+        "linked_url": "https://www.linkedin.com/posts/oorb-open-organic-robotics_oorb-pfe-book-call-for-interns-2025-activity-7265113217968861184-vitB?utm_source=share&utm_medium=member_desktop"
+    },
+]
