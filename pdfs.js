@@ -693,7 +693,7 @@ books = [
         "Tags": " Materials, Mechanics & Production, Mechatronics, Industrials, IT, Chemicals and Chemicals Processes, Ergonimics ",
         "thumbnail_url": "/assets/images/PursuitAerospace.jpg",
         "pdf_url": "/assets/pdfs/PursuitAerospace.pdf",
-        "linked_url": "https://www.linkedin.com/posts/infotech-consulting-services_pfe-book-2025-activity-7264561084953481218-6D2L?utm_source=share&utm_medium=member_desktop"
+        "linked_url": "https://www.linkedin.com/posts/ines-agreby_pfe-book-2025-pursuit-aerospace-tunisia-activity-7264895253940260865-0Aye?utm_source=share&utm_medium=member_desktop"
     },
 
     {
@@ -892,6 +892,33 @@ books = [
         "thumbnail_url": "/assets/images/ExypnoTech.jpg",
         "pdf_url": "/assets/pdfs/ExypnoTech.pdf",
         "linked_url": "https://www.linkedin.com/posts/exypnotech_pfe-book-2025-activity-7266868278864584704-Ezeb?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Spark IT",
+        "deadline": "",
+        "Tags": " Python, Data Engineering, Security, JAVA, .NET, PHP, QA, Marketing",
+        "thumbnail_url": "/assets/images/SparkIT.jpg",
+        "pdf_url": "/assets/pdfs/SparkIT.pdf",
+        "linked_url": "https://www.linkedin.com/posts/spark-it-france_activity-7265803244180754432-lcW_?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "IT Gust",
+        "deadline": "",
+        "Tags": " Web Develoment, AI",
+        "thumbnail_url": "/assets/images/ITGust.jpg",
+        "pdf_url": "/assets/pdfs/ITGust.pdf",
+        "linked_url": "https://www.linkedin.com/posts/itgust-group_catalogue-sujets-pfe-2024-2025-activity-7266014151628537856-q7rO?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Olivesoft",
+        "deadline": "",
+        "Tags": " BI, BI, Data, DevOps",
+        "thumbnail_url": "/assets/images/Olivesoft.jpg",
+        "pdf_url": "/assets/pdfs/Olivesoft.pdf",
+        "linked_url": "https://www.linkedin.com/posts/olivesoft_olivesoft-pfe-book-2025-apply-now-activity-7262496651464818689-D8sG?utm_source=share&utm_medium=member_desktop"
     },
 ]
 
