@@ -848,5 +848,50 @@ books = [
         "pdf_url": "/assets/pdfs/DRÄXLMAIERsm.pdf",
         "linked_url": "https://www.linkedin.com/posts/jiheneb_dr%C3%A4xlmaier-tunisiasousse-hubpfe-book-2023-activity-7135940051321942016-87YZ?utm_source=share&utm_medium=member_desktop"
     },
+
+    {
+        "company": "Pixii Motors",
+        "deadline": "",
+        "Tags": " Business Dev/Sales, Quality Management Engineering, Finance, Community Management, Graphic Design, Mechanics, Data Science",
+        "thumbnail_url": "/assets/images/Pixii.jpg",
+        "pdf_url": "/assets/pdfs/Pixii.pdf",
+        "linked_url": "https://www.linkedin.com/posts/pixii-motors_pixii-motors-end-of-study-internship-2025-activity-7267097938537926657-pigs?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Xlainer",
+        "deadline": "",
+        "Tags": " IT, AI, Data Analytics, Marketing, Communication",
+        "thumbnail_url": "/assets/images/Xlainer.jpg",
+        "pdf_url": "/assets/pdfs/Xlainer.pdf",
+        "linked_url": "https://www.linkedin.com/posts/xlainer_pfe-book-activity-7267124122533441538-0rkW?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Rosenberger Tunisia",
+        "deadline": " 15 December 2024",
+        "Tags": " IT, BI, Mechatronics, Logistics, Production",
+        "thumbnail_url": "/assets/images/Rosenberger.jpg",
+        "pdf_url": "/assets/pdfs/Rosenberger.pdf",
+        "linked_url": "https://www.linkedin.com/posts/rosenberger-mea_rosenberger-tunisia-pfe-book-2025-activity-7266805522299854848-17Bm?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Mobelite Tunisie",
+        "deadline": "",
+        "Tags": " QA, Docker, Mobile Development, Web Development, Gen AI, BI",
+        "thumbnail_url": "/assets/images/Mobelite.jpg",
+        "pdf_url": "/assets/pdfs/Mobelite.pdf",
+        "linked_url": "https://www.linkedin.com/posts/mobelite-tunisie_pfe-book-2024-2025-activity-7266835580125073408-rwHH?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "ExypnoTech",
+        "deadline": "",
+        "Tags": " AI, ML, Embedded Systems, Web Development, UI/UX Design, Graphic Design",
+        "thumbnail_url": "/assets/images/ExypnoTech.jpg",
+        "pdf_url": "/assets/pdfs/ExypnoTech.pdf",
+        "linked_url": "https://www.linkedin.com/posts/exypnotech_pfe-book-2025-activity-7266868278864584704-Ezeb?utm_source=share&utm_medium=member_desktop"
+    },
 ]
 
