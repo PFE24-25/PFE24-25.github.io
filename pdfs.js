@@ -1011,13 +1011,49 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/yaya-traore_pfe-activity-7264998051771994112-kJa-?utm_source=share&utm_medium=member_desktop"
     },
 
-    // {
-    //     "company": "AMM",
-    //     "deadline": "",
-    //     "Tags": " UI/UX, Web Development, Mechanical Engineering, Electrical Engineering, Industrial Engineering, Quality",
-    //     "thumbnail_url": "/assets/images/AMM.jpg",
-    //     "pdf_url": "/assets/pdfs/AMM.pdf",
-    //     "linked_url": "https://www.linkedin.com/posts/yaya-traore_pfe-activity-7264998051771994112-kJa-?utm_source=share&utm_medium=member_desktop"
-    // },
+    {
+        "company": "TALYS",
+        "deadline": "",
+        "Tags": " Web Development, Mobile Development, UI/UX Design, DevOps, Network, BI, Java",
+        "thumbnail_url": "/assets/images/TALYS.jpg",
+        "pdf_url": "/assets/pdfs/TALYS.pdf",
+        "linked_url": "https://www.linkedin.com/posts/talys_pfe-book-talys-2025-activity-7265684486309171200-lv0b?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "CAVEO",
+        "deadline": "",
+        "Tags": " Mechanics, Industrials, Industrial Maintenance, Materials, Mechatronics, Energy, Environment, Supply Chain",
+        "thumbnail_url": "/assets/images/CAVEO.jpg",
+        "pdf_url": "",
+        "linked_url": "https://www.linkedin.com/posts/rh-caveo-automotive-tunisia_caveo-automotive-tunisia-activity-7265660633113636864-UVNX?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "IT Empire",
+        "deadline": "",
+        "Tags": " Web Development, Mobile Development, Embedded Systems, AI, Big Data, Cybersecurity, Network, Cloud Computing, DevOps",
+        "thumbnail_url": "/assets/images/ITEmpire.jpg",
+        "pdf_url": "/assets/pdfs/ITEmpire.pdf",
+        "linked_url": "https://www.linkedin.com/posts/ankoudhoussem_catalogue-pfe-2024-2025-itempire-activity-7268601081813770240-w069?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Ooredoo Tunisie",
+        "deadline": "",
+        "Tags": " IT, BI, Web Development, Mobile Developement, AI, Marketing, Communication, ",
+        "thumbnail_url": "/assets/images/Ooredoo.jpg",
+        "pdf_url": "/assets/pdfs/Ooredoo.pdf",
+        "linked_url": "https://www.linkedin.com/posts/ooredootn_pfe-book-2025-activity-7269291538667503616-iqf8?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Guepard",
+        "deadline": "",
+        "Tags": " IT, BI, Web Development, Mobile Developement, AI, Marketing, Communication",
+        "thumbnail_url": "/assets/images/Guepard.jpg",
+        "pdf_url": "/assets/pdfs/Guepard.pdf",
+        "linked_url": "https://www.linkedin.com/posts/runguepard_guepard-pfe-book-2024-activity-7269338342926807040-_scE?utm_source=share&utm_medium=member_desktop"
+    },
 
 ]
