@@ -32,6 +32,9 @@ function createCard(book) {
 for (const book of books) {
     createCard(book);
 }
+const parentElement = document.getElementById('book-container');
+const numberOfChildren = parentElement.children.length;
+document.getElementById('total-books-count').innerHTML = "("+ numberOfChildren + ")";
 
 setInterval(function () {
     const background = document.getElementById('background');
@@ -112,9 +115,13 @@ function filter(){
 
 }
 
-// return number of books in total
-count = books.length;
-console.log(count);
-document.getElementById('total-books-count').innerHTML = "("+ count + ")";
+
+
+
+// Select the parent element
+
+
+
+
 
 

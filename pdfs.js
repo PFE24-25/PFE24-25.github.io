@@ -984,4 +984,40 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/oorb-open-organic-robotics_oorb-pfe-book-call-for-interns-2025-activity-7265113217968861184-vitB?utm_source=share&utm_medium=member_desktop"
     },
 
+    {
+        "company": "Think Tank",
+        "deadline": "",
+        "Tags": " AI, Web Development, DevOps, UI/UX Design",
+        "thumbnail_url": "/assets/images/ThinkTank.jpg",
+        "pdf_url": "/assets/pdfs/ThinkTank.pdf",
+        "linked_url": "https://www.linkedin.com/posts/think-tank-business-solutions-tunisia_think-tank-pfe-e-book-2024-2025-activity-7265011298084474880-RXt4?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Tritux",
+        "deadline": "",
+        "Tags": " AI, DL, ML, NLP, Python, Java, DevOps",
+        "thumbnail_url": "/assets/images/Tritux.jpg",
+        "pdf_url": "/assets/pdfs/Tritux.pdf",
+        "linked_url": "https://www.linkedin.com/posts/trituxgroup_pfe-book-2025-tritux-group-activity-7270471349670760448-na0o?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "AMM",
+        "deadline": "",
+        "Tags": " UI/UX, Web Development, Mechanical Engineering, Electrical Engineering, Industrial Engineering, Quality",
+        "thumbnail_url": "/assets/images/AMM.jpg",
+        "pdf_url": "/assets/pdfs/AMM.pdf",
+        "linked_url": "https://www.linkedin.com/posts/yaya-traore_pfe-activity-7264998051771994112-kJa-?utm_source=share&utm_medium=member_desktop"
+    },
+
+    // {
+    //     "company": "AMM",
+    //     "deadline": "",
+    //     "Tags": " UI/UX, Web Development, Mechanical Engineering, Electrical Engineering, Industrial Engineering, Quality",
+    //     "thumbnail_url": "/assets/images/AMM.jpg",
+    //     "pdf_url": "/assets/pdfs/AMM.pdf",
+    //     "linked_url": "https://www.linkedin.com/posts/yaya-traore_pfe-activity-7264998051771994112-kJa-?utm_source=share&utm_medium=member_desktop"
+    // },
+
 ]
