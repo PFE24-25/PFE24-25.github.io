@@ -1024,7 +1024,7 @@ books = [
         "company": "CAVEO",
         "deadline": "",
         "Tags": " Mechanics, Industrials, Industrial Maintenance, Materials, Mechatronics, Energy, Environment, Supply Chain",
-        "thumbnail_url": "/assets/images/CAVEO.jpg",
+        "thumbnail_url": "/assets/images/Caveo.jpg",
         "pdf_url": "",
         "linked_url": "https://www.linkedin.com/posts/rh-caveo-automotive-tunisia_caveo-automotive-tunisia-activity-7265660633113636864-UVNX?utm_source=share&utm_medium=member_desktop"
     },
