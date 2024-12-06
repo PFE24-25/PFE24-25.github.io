@@ -106,17 +106,17 @@ a
     border: #cccccc solid 1px;
     height: 2rem;
     padding: 0.5rem;
-    margin: 0.5rem 4rem;
-    gap: 0.5rem;
+    padding-right: 10%;
+    margin: 0.5rem 1rem;
     border-radius: 1.5rem;
-    width: 40%;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* Small, blurred shadow */
+    width: 60%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); 
 
 }
 
 .search
 {
-    margin-left: 1.5rem;
+    margin-left: 1rem;
 }
 
 .search::placeholder
@@ -137,7 +137,7 @@ a
 
 .search{
     outline: none;
-    width: 75%;
+    width: 45%;
     border: none;
     border-color: transparent;
     color:#A01C3E;
@@ -354,6 +354,8 @@ p.tags{
     width: 25%;
     margin: 0 auto;
     margin-top: 20px;
+    /* blurred background */
+
 }
 
 #total-books-count{
