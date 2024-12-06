@@ -34,7 +34,7 @@ for (const book of books) {
 }
 const parentElement = document.getElementById('book-container');
 const numberOfChildren = parentElement.children.length;
-document.getElementById('total-books-count').innerHTML = "("+ numberOfChildren + ")";
+document.getElementById('total-books-count').innerHTML = "Total of: "+ numberOfChildren + " books!";
 
 setInterval(function () {
     const background = document.getElementById('background');

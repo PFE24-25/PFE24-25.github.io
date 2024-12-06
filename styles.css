@@ -349,3 +349,19 @@ p.tags{
     font-size: 14px;
     font-weight: 100 !important;
 }
+
+#total-books{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#total-books-count{
+    text-align: center;
+}
+.line{
+    border-top: #545454 solid 1px;
+}
+
+
+
