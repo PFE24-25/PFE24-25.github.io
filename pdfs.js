@@ -1056,4 +1056,31 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/runguepard_guepard-pfe-book-2024-activity-7269338342926807040-_scE?utm_source=share&utm_medium=member_desktop"
     },
 
+    {
+        "company": "SaluSecurity",
+        "deadline": " 20 December 2024",
+        "Tags": " AI, LLM, UI/UX Design, Mobile Development",
+        "thumbnail_url": "/assets/images/SaluSecurity.jpg",
+        "pdf_url": "/assets/pdfs/SaluSecurity.pdf",
+        "linked_url": "https://www.linkedin.com/posts/salusecurity_salusecurity-pfe-book-2025-activity-7267470787886866432-qerY?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Key Software",
+        "deadline": "",
+        "Tags": " Software Development, UI/UX Design, Digital Marketing, Quality Assurance",
+        "thumbnail_url": "/assets/images/KeySoftware.jpg",
+        "pdf_url": "/assets/pdfs/KeySoftware.pdf",
+        "linked_url": "https://www.linkedin.com/posts/keysoftwareofficial_pfe-book-key-software-activity-7269315620167434241-qmns?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Tanit.ai",
+        "deadline": "",
+        "Tags": " Data, Web Development, AI, DevOps, Content Creation, Web Design, Sales, ",
+        "thumbnail_url": "/assets/images/TanitAI.jpg",
+        "pdf_url": "/assets/pdfs/TanitAI.pdf",
+        "linked_url": "https://www.linkedin.com/posts/tanit-healthcare-technologies_pfe-book-tanit-ai-24-25-activity-7269394338231582722-PUjU?utm_source=share&utm_medium=member_desktop"
+    },
+
 ]
