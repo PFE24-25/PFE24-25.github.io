@@ -1083,4 +1083,14 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/tanit-healthcare-technologies_pfe-book-tanit-ai-24-25-activity-7269394338231582722-PUjU?utm_source=share&utm_medium=member_desktop"
     },
 
+    {
+        "company": "WayCare",
+        "deadline": "",
+        "Tags": " Test & Quality, DevOps, AI, Data",
+        "thumbnail_url": "/assets/images/WayCare.jpg",
+        "pdf_url": "/assets/pdfs/WayCare.pdf",
+        "linked_url": "https://www.linkedin.com/posts/waycare%2Eapp_pfe-book-2025-waycare-activity-7270716202082078720-tzcj?utm_source=share&utm_medium=member_desktop"
+    },
+
+
 ]
