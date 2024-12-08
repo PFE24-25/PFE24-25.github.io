@@ -1137,15 +1137,6 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/devoteam-tunisie_pfe-book-2024-2025-devoteam-tunisie-activity-7264572052412497921-T79K?utm_source=share&utm_medium=member_desktop"
     },
 
-    {
-        "company": "Devoteam",
-        "deadline": "",
-        "Tags": " IT, Supply Chain Management, BI, Data, RH, Security",
-        "thumbnail_url": "/assets/images/Devoteam.jpg",
-        "pdf_url": "/assets/pdfs/Devoteam.pdf",
-        "linked_url": "https://www.linkedin.com/posts/devoteam-tunisie_pfe-book-2024-2025-devoteam-tunisie-activity-7264572052412497921-T79K?utm_source=share&utm_medium=member_desktop"
-    },
-
 
 
 
