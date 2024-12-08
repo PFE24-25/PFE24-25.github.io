@@ -1092,5 +1092,61 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/waycare%2Eapp_pfe-book-2025-waycare-activity-7270716202082078720-tzcj?utm_source=share&utm_medium=member_desktop"
     },
 
+    {
+        "company": "Cynoai",
+        "deadline": "",
+        "Tags": " Sales, Finance, Business Analytics",
+        "thumbnail_url": "/assets/images/Cynoai.jpg",
+        "pdf_url": "/assets/pdfs/Cynoai.pdf",
+        "linked_url": "https://www.linkedin.com/posts/cynoia_cynoia-pfe-book-2024-activity-7270852458497589248-42wU?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "YUCCAINFO",
+        "deadline": "",
+        "Tags": " Web Development, Mobile Development, AI, DevOps, Cloud, Cybersecurity, Data, Marketing, Sales",
+        "thumbnail_url": "/assets/images/YUCCAINFO.jpg",
+        "pdf_url": "/assets/pdfs/YUCCAINFO.pdf",
+        "linked_url": "https://www.linkedin.com/posts/yuccainfo_yuccainfo-internship-book-2025-activity-7270421670018895872-whD1?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "PLASTICUM",
+        "deadline": "",
+        "Tags": " Accounting, Finance, Development, Industrialisation, Measurment & Test",
+        "thumbnail_url": "/assets/images/PLASTICUM.jpg",
+        "pdf_url": "/assets/pdfs/PLASTICUM.pdf",
+        "linked_url": "https://www.linkedin.com/posts/plasticumgroup_pfe-book-2025-plasticum-activity-7270460350402068481-9QgZ?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Timsoft Group",
+        "deadline": "",
+        "Tags": " Automation, Web Development, Mobile Development, AI, DevOps, Digital Marketing",
+        "thumbnail_url": "/assets/images/Timsoft.jpg",
+        "pdf_url": "/assets/pdfs/Timsoft.pdf",
+        "linked_url": "https://www.linkedin.com/posts/timsoftgroup_pfe-book-2025-activity-7270745269707657216-FSsC?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Devoteam",
+        "deadline": "",
+        "Tags": " IT, Supply Chain Management, BI, Data, RH, Security",
+        "thumbnail_url": "/assets/images/Devoteam.jpg",
+        "pdf_url": "/assets/pdfs/Devoteam.pdf",
+        "linked_url": "https://www.linkedin.com/posts/devoteam-tunisie_pfe-book-2024-2025-devoteam-tunisie-activity-7264572052412497921-T79K?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "company": "Devoteam",
+        "deadline": "",
+        "Tags": " IT, Supply Chain Management, BI, Data, RH, Security",
+        "thumbnail_url": "/assets/images/Devoteam.jpg",
+        "pdf_url": "/assets/pdfs/Devoteam.pdf",
+        "linked_url": "https://www.linkedin.com/posts/devoteam-tunisie_pfe-book-2024-2025-devoteam-tunisie-activity-7264572052412497921-T79K?utm_source=share&utm_medium=member_desktop"
+    },
+
+
+
 
 ]
