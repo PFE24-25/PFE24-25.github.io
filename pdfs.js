@@ -1137,7 +1137,23 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/devoteam-tunisie_pfe-book-2024-2025-devoteam-tunisie-activity-7264572052412497921-T79K?utm_source=share&utm_medium=member_desktop"
     },
 
+    {
+        "company": "SysteoDigital",
+        "deadline": "",
+        "Tags": " Web Development, AI, Mobile Application",
+        "thumbnail_url": "/assets/images/SysteoDigital.jpg",
+        "pdf_url": "/assets/pdfs/SysteoDigital.pdf",
+        "linked_url": "https://www.linkedin.com/posts/invention-learning_pfe-activity-7271610399966318592-zF4g?utm_source=share&utm_medium=member_desktop"
+    },
 
+    {
+        "company": "Centre de Recherche en Informatique de Sfax",
+        "deadline": "",
+        "Tags": " IoT, AI, Data Science, Cybersecurity",
+        "thumbnail_url": "/assets/images/CRNSII.jpg",
+        "pdf_url": "/assets/pdfs/CRNSII.pdf",
+        "linked_url": "https://www.linkedin.com/posts/digital-research-center-sfax_catalogue-des-sujets-pfe-master-pour-2024-activity-7271890991605833728-RKTe?utm_source=share&utm_medium=member_desktop"
+    },
 
 
 ]
