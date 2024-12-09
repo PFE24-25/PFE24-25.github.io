@@ -1155,5 +1155,16 @@ books = [
         "linked_url": "https://www.linkedin.com/posts/digital-research-center-sfax_catalogue-des-sujets-pfe-master-pour-2024-activity-7271890991605833728-RKTe?utm_source=share&utm_medium=member_desktop"
     },
 
+    {
+        "company": "ADDINN",
+        "deadline": "",
+        "Tags": " IT, Data, Bi, Web Development, UI/UX Design, DevOps, Mobile Development",
+        "thumbnail_url": "/assets/images/ADDINN.jpg",
+        "pdf_url": "/assets/pdfs/ADDINN.pdf",
+        "linked_url": "https://www.linkedin.com/posts/addinn_pfe-book-addinn-group-2025-activity-7270724458032635904-bpSe?utm_source=share&utm_medium=member_desktop"
+    },
+
+
+
 
 ]
