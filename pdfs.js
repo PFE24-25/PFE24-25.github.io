@@ -1163,8 +1163,13 @@ books = [
         "pdf_url": "/assets/pdfs/ADDINN.pdf",
         "linked_url": "https://www.linkedin.com/posts/addinn_pfe-book-addinn-group-2025-activity-7270724458032635904-bpSe?utm_source=share&utm_medium=member_desktop"
     },
-
-
-
+    {
+        "company": "Nexan",
+        "deadline": "",
+        "Tags": " Electrical Engineering, Mechanical Engineering, IT, Python, PowerBi, Embedded Systems",
+        "thumbnail_url": "/assets/images/1736703197027_NexansAutoelectricTunisie.png",
+        "pdf_url": "/assets/pdfs/1736703197027_NexansAutoelectricTunisie.pdf",
+        "linked_url": "https://www.linkedin.com/posts/nexans-autoelectrictn_pfe-book-activity-7276953502851944450-kkU-?utm_source=share&utm_medium=member_desktop"
+    },
 
 ]
